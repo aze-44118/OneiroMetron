@@ -1,0 +1,1563 @@
+channel_name,sport,year,quarter,total_views_in_quarter,subscribers_end_quarter,videos_uploaded_in_quarter,avg_views_per_video
+Adam Ondra,climbing,2017,Q2,242903,619000,1,242903.0
+Adam Ondra,climbing,2017,Q3,0,619000,0,0
+Adam Ondra,climbing,2017,Q4,355189,619000,8,44398.62
+Adam Ondra,climbing,2018,Q1,9533315,619000,2,4766657.5
+Adam Ondra,climbing,2018,Q2,0,619000,0,0
+Adam Ondra,climbing,2018,Q3,0,619000,0,0
+Adam Ondra,climbing,2018,Q4,2204003,619000,12,183666.92
+Adam Ondra,climbing,2019,Q1,2163560,619000,15,144237.33
+Adam Ondra,climbing,2019,Q2,7247860,619000,13,557527.69
+Adam Ondra,climbing,2019,Q3,3644868,619000,14,260347.71
+Adam Ondra,climbing,2019,Q4,4510742,619000,16,281921.38
+Adam Ondra,climbing,2020,Q1,9461809,619000,17,556577.0
+Adam Ondra,climbing,2020,Q2,6880535,619000,16,430033.44
+Adam Ondra,climbing,2020,Q3,3994162,619000,17,234950.71
+Adam Ondra,climbing,2020,Q4,2804691,619000,14,200335.07
+Adam Ondra,climbing,2021,Q1,3497118,619000,12,291426.5
+Adam Ondra,climbing,2021,Q2,1802258,619000,7,257465.43
+Adam Ondra,climbing,2021,Q3,283819,619000,3,94606.33
+Adam Ondra,climbing,2021,Q4,1420298,619000,8,177537.25
+Adam Ondra,climbing,2022,Q1,2452086,619000,6,408681.0
+Adam Ondra,climbing,2022,Q2,2479991,619000,8,309998.88
+Adam Ondra,climbing,2022,Q3,1732518,619000,8,216564.75
+Adam Ondra,climbing,2022,Q4,1672837,619000,8,209104.62
+Adam Ondra,climbing,2023,Q1,2881332,619000,6,480222.0
+Adam Ondra,climbing,2023,Q2,2147914,619000,11,195264.91
+Adam Ondra,climbing,2023,Q3,1113852,619000,4,278463.0
+Adam Ondra,climbing,2023,Q4,4249977,619000,8,531247.12
+Adam Ondra,climbing,2024,Q1,1505731,619000,5,301146.2
+Adam Ondra,climbing,2024,Q2,3185065,619000,6,530844.17
+Adam Ondra,climbing,2024,Q3,1801881,619000,6,300313.5
+Adam Ondra,climbing,2024,Q4,1519011,619000,6,253168.5
+Appletree Surfboards,wingfoiling,2018,Q4,2212,2290,2,1106.0
+Appletree Surfboards,wingfoiling,2019,Q1,895,2290,2,447.5
+Appletree Surfboards,wingfoiling,2019,Q2,1477,2290,1,1477.0
+Appletree Surfboards,wingfoiling,2019,Q3,9093,2290,3,3031.0
+Appletree Surfboards,wingfoiling,2019,Q4,2954,2290,1,2954.0
+Appletree Surfboards,wingfoiling,2020,Q1,17118,2290,9,1902.0
+Appletree Surfboards,wingfoiling,2020,Q2,21650,2290,6,3608.33
+Appletree Surfboards,wingfoiling,2020,Q3,156662,2290,5,31332.4
+Appletree Surfboards,wingfoiling,2020,Q4,10071,2290,4,2517.75
+Appletree Surfboards,wingfoiling,2021,Q1,347,2290,1,347.0
+Appletree Surfboards,wingfoiling,2021,Q2,9768,2290,4,2442.0
+Appletree Surfboards,wingfoiling,2021,Q3,1611,2290,1,1611.0
+Appletree Surfboards,wingfoiling,2021,Q4,5094,2290,2,2547.0
+Appletree Surfboards,wingfoiling,2022,Q1,41914,2290,4,10478.5
+Appletree Surfboards,wingfoiling,2022,Q2,14041,2290,6,2340.17
+Appletree Surfboards,wingfoiling,2022,Q3,20343,2290,9,2260.33
+Appletree Surfboards,wingfoiling,2022,Q4,37660,2290,9,4184.44
+Appletree Surfboards,wingfoiling,2023,Q1,12523,2290,4,3130.75
+Appletree Surfboards,wingfoiling,2023,Q2,22052,2290,5,4410.4
+Appletree Surfboards,wingfoiling,2023,Q3,23070,2290,10,2307.0
+Appletree Surfboards,wingfoiling,2023,Q4,34708,2290,6,5784.67
+Appletree Surfboards,wingfoiling,2024,Q1,14941,2290,3,4980.33
+Appletree Surfboards,wingfoiling,2024,Q2,23974,2290,7,3424.86
+Appletree Surfboards,wingfoiling,2024,Q3,10933,2290,4,2733.25
+Appletree Surfboards,wingfoiling,2024,Q4,15790,2290,3,5263.33
+BKXC,mountain biking,2016,Q2,1710161,562000,36,47504.47
+BKXC,mountain biking,2016,Q3,2678780,562000,46,58234.35
+BKXC,mountain biking,2016,Q4,3383683,562000,45,75192.96
+BKXC,mountain biking,2017,Q1,4703782,562000,41,114726.39
+BKXC,mountain biking,2017,Q2,3862874,562000,43,89834.28
+BKXC,mountain biking,2017,Q3,4020303,562000,46,87397.89
+BKXC,mountain biking,2017,Q4,2980496,562000,45,66233.24
+BKXC,mountain biking,2018,Q1,3379562,562000,46,73468.74
+BKXC,mountain biking,2018,Q2,15523394,562000,41,378619.37
+BKXC,mountain biking,2018,Q3,2607985,562000,39,66871.41
+BKXC,mountain biking,2018,Q4,3366989,562000,30,112232.97
+BKXC,mountain biking,2019,Q1,2332650,562000,32,72895.31
+BKXC,mountain biking,2019,Q2,5611822,562000,31,181026.52
+BKXC,mountain biking,2019,Q3,4130514,562000,28,147518.36
+BKXC,mountain biking,2019,Q4,4109529,562000,30,136984.3
+BKXC,mountain biking,2020,Q1,2648137,562000,24,110339.04
+BKXC,mountain biking,2020,Q2,2005848,562000,21,95516.57
+BKXC,mountain biking,2020,Q3,2402287,562000,26,92395.65
+BKXC,mountain biking,2020,Q4,2546919,562000,19,134048.37
+BKXC,mountain biking,2021,Q1,2928609,562000,24,122025.38
+BKXC,mountain biking,2021,Q2,3824912,562000,25,152996.48
+BKXC,mountain biking,2021,Q3,1505011,562000,20,75250.55
+BKXC,mountain biking,2021,Q4,1520743,562000,24,63364.29
+BKXC,mountain biking,2022,Q1,1912373,562000,22,86926.05
+BKXC,mountain biking,2022,Q2,13260144,562000,17,780008.47
+BKXC,mountain biking,2022,Q3,1091447,562000,10,109144.7
+BKXC,mountain biking,2022,Q4,1319495,562000,15,87966.33
+BKXC,mountain biking,2023,Q1,4211701,562000,11,382881.91
+BKXC,mountain biking,2023,Q2,859767,562000,14,61411.93
+BKXC,mountain biking,2023,Q3,1124472,562000,23,48890.09
+BKXC,mountain biking,2023,Q4,1099911,562000,16,68744.44
+BKXC,mountain biking,2024,Q1,498811,562000,8,62351.38
+BKXC,mountain biking,2024,Q2,421444,562000,10,42144.4
+BKXC,mountain biking,2024,Q3,392155,562000,11,35650.45
+BKXC,mountain biking,2024,Q4,411417,562000,15,27427.8
+Berm Peak,mountain biking,2015,Q1,3103483,2720000,10,310348.3
+Berm Peak,mountain biking,2015,Q2,5589470,2720000,13,429959.23
+Berm Peak,mountain biking,2015,Q3,14475699,2720000,28,516989.25
+Berm Peak,mountain biking,2015,Q4,17924381,2720000,26,689399.27
+Berm Peak,mountain biking,2016,Q1,11274100,2720000,22,512459.09
+Berm Peak,mountain biking,2016,Q2,47297069,2720000,28,1689181.04
+Berm Peak,mountain biking,2016,Q3,26961781,2720000,27,998584.48
+Berm Peak,mountain biking,2016,Q4,51066900,2720000,29,1760927.59
+Berm Peak,mountain biking,2017,Q1,31535629,2720000,29,1087435.48
+Berm Peak,mountain biking,2017,Q2,29615424,2720000,16,1850964.0
+Berm Peak,mountain biking,2017,Q3,40452142,2720000,17,2379537.76
+Berm Peak,mountain biking,2017,Q4,27402009,2720000,13,2107846.85
+Berm Peak,mountain biking,2018,Q1,37523270,2720000,15,2501551.33
+Berm Peak,mountain biking,2018,Q2,41351382,2720000,14,2953670.14
+Berm Peak,mountain biking,2018,Q3,21253249,2720000,12,1771104.08
+Berm Peak,mountain biking,2018,Q4,22720948,2720000,11,2065540.73
+Berm Peak,mountain biking,2019,Q1,43275618,2720000,13,3328893.69
+Berm Peak,mountain biking,2019,Q2,36784948,2720000,11,3344086.18
+Berm Peak,mountain biking,2019,Q3,22001119,2720000,11,2000101.73
+Berm Peak,mountain biking,2019,Q4,23481498,2720000,11,2134681.64
+Berm Peak,mountain biking,2020,Q1,20751641,2720000,11,1886512.82
+Berm Peak,mountain biking,2020,Q2,16037796,2720000,10,1603779.6
+Berm Peak,mountain biking,2020,Q3,22089316,2720000,11,2008119.64
+Berm Peak,mountain biking,2020,Q4,10867486,2720000,8,1358435.75
+Berm Peak,mountain biking,2021,Q1,3934202,2720000,5,786840.4
+Berm Peak,mountain biking,2021,Q2,5832229,2720000,6,972038.17
+Berm Peak,mountain biking,2021,Q3,12429648,2720000,6,2071608.0
+Berm Peak,mountain biking,2021,Q4,6239341,2720000,5,1247868.2
+Berm Peak,mountain biking,2022,Q1,6321732,2720000,7,903104.57
+Berm Peak,mountain biking,2022,Q2,7377743,2720000,7,1053963.29
+Berm Peak,mountain biking,2022,Q3,9718969,2720000,9,1079885.44
+Berm Peak,mountain biking,2022,Q4,4803267,2720000,6,800544.5
+Berm Peak,mountain biking,2023,Q1,5584919,2720000,3,1861639.67
+Berm Peak,mountain biking,2023,Q2,5406647,2720000,8,675830.88
+Berm Peak,mountain biking,2023,Q3,4974456,2720000,5,994891.2
+Berm Peak,mountain biking,2023,Q4,5573558,2720000,9,619284.22
+Berm Peak,mountain biking,2024,Q1,3946156,2720000,5,789231.2
+Berm Peak,mountain biking,2024,Q2,8707580,2720000,8,1088447.5
+Berm Peak,mountain biking,2024,Q3,8184890,2720000,9,909432.22
+Berm Peak,mountain biking,2024,Q4,5399387,2720000,11,490853.36
+Billy Yang,trail running,2015,Q1,173374,130000,2,86687.0
+Billy Yang,trail running,2015,Q2,745960,130000,5,149192.0
+Billy Yang,trail running,2015,Q3,494431,130000,3,164810.33
+Billy Yang,trail running,2015,Q4,214097,130000,2,107048.5
+Billy Yang,trail running,2016,Q1,1591268,130000,3,530422.67
+Billy Yang,trail running,2016,Q2,217466,130000,3,72488.67
+Billy Yang,trail running,2016,Q3,52131,130000,1,52131.0
+Billy Yang,trail running,2016,Q4,143632,130000,3,47877.33
+Billy Yang,trail running,2017,Q1,1902956,130000,9,211439.56
+Billy Yang,trail running,2017,Q2,194495,130000,4,48623.75
+Billy Yang,trail running,2017,Q3,1920922,130000,5,384184.4
+Billy Yang,trail running,2017,Q4,37329,130000,1,37329.0
+Billy Yang,trail running,2018,Q1,3376495,130000,6,562749.17
+Billy Yang,trail running,2018,Q2,192488,130000,2,96244.0
+Billy Yang,trail running,2018,Q3,327260,130000,5,65452.0
+Billy Yang,trail running,2018,Q4,491647,130000,3,163882.33
+Billy Yang,trail running,2019,Q1,474083,130000,5,94816.6
+Billy Yang,trail running,2019,Q2,367016,130000,4,91754.0
+Billy Yang,trail running,2019,Q3,250117,130000,6,41686.17
+Billy Yang,trail running,2019,Q4,115901,130000,6,19316.83
+Billy Yang,trail running,2020,Q1,291083,130000,3,97027.67
+Billy Yang,trail running,2020,Q2,73987,130000,2,36993.5
+Billy Yang,trail running,2020,Q3,128225,130000,2,64112.5
+Billy Yang,trail running,2020,Q4,1561889,130000,5,312377.8
+Billy Yang,trail running,2021,Q1,28766,130000,3,9588.67
+Billy Yang,trail running,2021,Q2,0,130000,0,0
+Billy Yang,trail running,2021,Q3,11625,130000,2,5812.5
+Billy Yang,trail running,2021,Q4,123813,130000,3,41271.0
+Billy Yang,trail running,2022,Q1,206209,130000,4,51552.25
+Billy Yang,trail running,2022,Q2,376032,130000,4,94008.0
+Billy Yang,trail running,2022,Q3,151142,130000,4,37785.5
+Billy Yang,trail running,2022,Q4,220943,130000,7,31563.29
+Billy Yang,trail running,2023,Q1,181319,130000,2,90659.5
+Billy Yang,trail running,2023,Q2,80387,130000,1,80387.0
+Billy Yang,trail running,2023,Q3,39387,130000,1,39387.0
+Billy Yang,trail running,2023,Q4,28365,130000,2,14182.5
+Billy Yang,trail running,2024,Q1,219153,130000,3,73051.0
+Billy Yang,trail running,2024,Q2,412227,130000,2,206113.5
+Billy Yang,trail running,2024,Q3,32902,130000,2,16451.0
+Billy Yang,trail running,2024,Q4,155447,130000,4,38861.75
+CORE Watersports,kitesurfing,2015,Q1,0,5910,0,0
+CORE Watersports,kitesurfing,2015,Q2,27603,5910,3,9201.0
+CORE Watersports,kitesurfing,2015,Q3,0,5910,0,0
+CORE Watersports,kitesurfing,2015,Q4,0,5910,0,0
+CORE Watersports,kitesurfing,2016,Q1,0,5910,0,0
+CORE Watersports,kitesurfing,2016,Q2,47900,5910,3,15966.67
+CORE Watersports,kitesurfing,2016,Q3,10454,5910,2,5227.0
+CORE Watersports,kitesurfing,2016,Q4,0,5910,0,0
+CORE Watersports,kitesurfing,2017,Q1,2548,5910,1,2548.0
+CORE Watersports,kitesurfing,2017,Q2,24409,5910,2,12204.5
+CORE Watersports,kitesurfing,2017,Q3,6087,5910,2,3043.5
+CORE Watersports,kitesurfing,2017,Q4,0,5910,0,0
+CORE Watersports,kitesurfing,2018,Q1,3931,5910,2,1965.5
+CORE Watersports,kitesurfing,2018,Q2,45793,5910,6,7632.17
+CORE Watersports,kitesurfing,2018,Q3,0,5910,0,0
+CORE Watersports,kitesurfing,2018,Q4,0,5910,0,0
+CORE Watersports,kitesurfing,2019,Q1,0,5910,0,0
+CORE Watersports,kitesurfing,2019,Q2,22044,5910,1,22044.0
+CORE Watersports,kitesurfing,2019,Q3,24022,5910,3,8007.33
+CORE Watersports,kitesurfing,2019,Q4,0,5910,0,0
+CORE Watersports,kitesurfing,2020,Q1,0,5910,0,0
+CORE Watersports,kitesurfing,2020,Q2,43789,5910,3,14596.33
+CORE Watersports,kitesurfing,2020,Q3,50580,5910,3,16860.0
+CORE Watersports,kitesurfing,2020,Q4,0,5910,0,0
+CORE Watersports,kitesurfing,2021,Q1,15533,5910,1,15533.0
+CORE Watersports,kitesurfing,2021,Q2,31258,5910,1,31258.0
+CORE Watersports,kitesurfing,2021,Q3,16753,5910,3,5584.33
+CORE Watersports,kitesurfing,2021,Q4,3905,5910,1,3905.0
+CORE Watersports,kitesurfing,2022,Q1,0,5910,0,0
+CORE Watersports,kitesurfing,2022,Q2,13475,5910,1,13475.0
+CORE Watersports,kitesurfing,2022,Q3,16816,5910,5,3363.2
+CORE Watersports,kitesurfing,2022,Q4,0,5910,0,0
+CORE Watersports,kitesurfing,2023,Q1,0,5910,0,0
+CORE Watersports,kitesurfing,2023,Q2,29484,5910,3,9828.0
+CORE Watersports,kitesurfing,2023,Q3,45996,5910,17,2705.65
+CORE Watersports,kitesurfing,2023,Q4,74852,5910,30,2495.07
+CORE Watersports,kitesurfing,2024,Q1,13391,5910,6,2231.83
+CORE Watersports,kitesurfing,2024,Q2,22732,5910,6,3788.67
+CORE Watersports,kitesurfing,2024,Q3,23852,5910,12,1987.67
+CORE Watersports,kitesurfing,2024,Q4,37817,5910,38,995.18
+Cabrinha,kitesurfing,2015,Q1,421477,30500,7,60211.0
+Cabrinha,kitesurfing,2015,Q2,65808,30500,2,32904.0
+Cabrinha,kitesurfing,2015,Q3,402876,30500,44,9156.27
+Cabrinha,kitesurfing,2015,Q4,278687,30500,6,46447.83
+Cabrinha,kitesurfing,2016,Q1,64313,30500,4,16078.25
+Cabrinha,kitesurfing,2016,Q2,54445,30500,1,54445.0
+Cabrinha,kitesurfing,2016,Q3,499451,30500,26,19209.65
+Cabrinha,kitesurfing,2016,Q4,214637,30500,4,53659.25
+Cabrinha,kitesurfing,2017,Q1,147348,30500,7,21049.71
+Cabrinha,kitesurfing,2017,Q2,432514,30500,12,36042.83
+Cabrinha,kitesurfing,2017,Q3,667504,30500,28,23839.43
+Cabrinha,kitesurfing,2017,Q4,0,30500,0,0
+Cabrinha,kitesurfing,2018,Q1,111853,30500,6,18642.17
+Cabrinha,kitesurfing,2018,Q2,201525,30500,12,16793.75
+Cabrinha,kitesurfing,2018,Q3,279986,30500,20,13999.3
+Cabrinha,kitesurfing,2018,Q4,167955,30500,11,15268.64
+Cabrinha,kitesurfing,2019,Q1,61790,30500,6,10298.33
+Cabrinha,kitesurfing,2019,Q2,103081,30500,11,9371.0
+Cabrinha,kitesurfing,2019,Q3,217904,30500,18,12105.78
+Cabrinha,kitesurfing,2019,Q4,88557,30500,11,8050.64
+Cabrinha,kitesurfing,2020,Q1,49635,30500,7,7090.71
+Cabrinha,kitesurfing,2020,Q2,413701,30500,11,37609.18
+Cabrinha,kitesurfing,2020,Q3,107530,30500,13,8271.54
+Cabrinha,kitesurfing,2020,Q4,146267,30500,11,13297.0
+Cabrinha,kitesurfing,2021,Q1,85819,30500,13,6601.46
+Cabrinha,kitesurfing,2021,Q2,38560,30500,11,3505.45
+Cabrinha,kitesurfing,2021,Q3,112374,30500,19,5914.42
+Cabrinha,kitesurfing,2021,Q4,20406,30500,7,2915.14
+Cabrinha,kitesurfing,2022,Q1,115742,30500,15,7716.13
+Cabrinha,kitesurfing,2022,Q2,11530,30500,6,1921.67
+Cabrinha,kitesurfing,2022,Q3,54212,30500,17,3188.94
+Cabrinha,kitesurfing,2022,Q4,3046,30500,1,3046.0
+Cabrinha,kitesurfing,2023,Q1,146665,30500,27,5432.04
+Cabrinha,kitesurfing,2023,Q2,24811,30500,8,3101.38
+Cabrinha,kitesurfing,2023,Q3,9120,30500,3,3040.0
+Cabrinha,kitesurfing,2023,Q4,75128,30500,18,4173.78
+Cabrinha,kitesurfing,2024,Q1,124797,30500,26,4799.88
+Cabrinha,kitesurfing,2024,Q2,43446,30500,8,5430.75
+Cabrinha,kitesurfing,2024,Q3,8625,30500,4,2156.25
+Cabrinha,kitesurfing,2024,Q4,23422,30500,6,3903.67
+DUOTONE Kiteboarding,kitesurfing,2015,Q1,0,46700,0,0
+DUOTONE Kiteboarding,kitesurfing,2015,Q2,0,46700,0,0
+DUOTONE Kiteboarding,kitesurfing,2015,Q3,0,46700,0,0
+DUOTONE Kiteboarding,kitesurfing,2015,Q4,0,46700,0,0
+DUOTONE Kiteboarding,kitesurfing,2016,Q1,0,46700,0,0
+DUOTONE Kiteboarding,kitesurfing,2016,Q2,0,46700,0,0
+DUOTONE Kiteboarding,kitesurfing,2016,Q3,0,46700,0,0
+DUOTONE Kiteboarding,kitesurfing,2016,Q4,0,46700,1,0.0
+DUOTONE Kiteboarding,kitesurfing,2017,Q1,0,46700,0,0
+DUOTONE Kiteboarding,kitesurfing,2017,Q2,0,46700,0,0
+DUOTONE Kiteboarding,kitesurfing,2017,Q3,0,46700,0,0
+DUOTONE Kiteboarding,kitesurfing,2017,Q4,0,46700,0,0
+DUOTONE Kiteboarding,kitesurfing,2018,Q1,0,46700,0,0
+DUOTONE Kiteboarding,kitesurfing,2018,Q2,0,46700,0,0
+DUOTONE Kiteboarding,kitesurfing,2018,Q3,237195,46700,10,23719.5
+DUOTONE Kiteboarding,kitesurfing,2018,Q4,116582,46700,11,10598.36
+DUOTONE Kiteboarding,kitesurfing,2019,Q1,100105,46700,7,14300.71
+DUOTONE Kiteboarding,kitesurfing,2019,Q2,716041,46700,41,17464.41
+DUOTONE Kiteboarding,kitesurfing,2019,Q3,2278919,46700,170,13405.41
+DUOTONE Kiteboarding,kitesurfing,2019,Q4,314568,46700,32,9830.25
+DUOTONE Kiteboarding,kitesurfing,2020,Q1,199782,46700,14,14270.14
+DUOTONE Kiteboarding,kitesurfing,2020,Q2,79661,46700,8,9957.62
+DUOTONE Kiteboarding,kitesurfing,2020,Q3,372823,46700,23,16209.7
+DUOTONE Kiteboarding,kitesurfing,2020,Q4,235167,46700,31,7586.03
+DUOTONE Kiteboarding,kitesurfing,2021,Q1,196379,46700,14,14027.07
+DUOTONE Kiteboarding,kitesurfing,2021,Q2,22960,46700,3,7653.33
+DUOTONE Kiteboarding,kitesurfing,2021,Q3,199176,46700,13,15321.23
+DUOTONE Kiteboarding,kitesurfing,2021,Q4,197074,46700,26,7579.77
+DUOTONE Kiteboarding,kitesurfing,2022,Q1,229716,46700,33,6961.09
+DUOTONE Kiteboarding,kitesurfing,2022,Q2,111005,46700,10,11100.5
+DUOTONE Kiteboarding,kitesurfing,2022,Q3,272246,46700,29,9387.79
+DUOTONE Kiteboarding,kitesurfing,2022,Q4,202079,46700,16,12629.94
+DUOTONE Kiteboarding,kitesurfing,2023,Q1,152691,46700,36,4241.42
+DUOTONE Kiteboarding,kitesurfing,2023,Q2,66741,46700,8,8342.62
+DUOTONE Kiteboarding,kitesurfing,2023,Q3,107005,46700,12,8917.08
+DUOTONE Kiteboarding,kitesurfing,2023,Q4,136367,46700,12,11363.92
+DUOTONE Kiteboarding,kitesurfing,2024,Q1,78875,46700,17,4639.71
+DUOTONE Kiteboarding,kitesurfing,2024,Q2,14396,46700,5,2879.2
+DUOTONE Kiteboarding,kitesurfing,2024,Q3,55232,46700,11,5021.09
+DUOTONE Kiteboarding,kitesurfing,2024,Q4,56671,46700,28,2023.96
+Darwin onthetrail,camping,2015,Q3,181513,351000,6,30252.17
+Darwin onthetrail,camping,2015,Q4,556918,351000,16,34807.38
+Darwin onthetrail,camping,2016,Q1,519940,351000,8,64992.5
+Darwin onthetrail,camping,2016,Q2,523181,351000,10,52318.1
+Darwin onthetrail,camping,2016,Q3,494869,351000,11,44988.09
+Darwin onthetrail,camping,2016,Q4,1694454,351000,8,211806.75
+Darwin onthetrail,camping,2017,Q1,1681697,351000,15,112113.13
+Darwin onthetrail,camping,2017,Q2,4025582,351000,31,129857.48
+Darwin onthetrail,camping,2017,Q3,3652746,351000,35,104364.17
+Darwin onthetrail,camping,2017,Q4,5025225,351000,29,173283.62
+Darwin onthetrail,camping,2018,Q1,2072398,351000,26,79707.62
+Darwin onthetrail,camping,2018,Q2,2529969,351000,14,180712.07
+Darwin onthetrail,camping,2018,Q3,1812235,351000,13,139402.69
+Darwin onthetrail,camping,2018,Q4,2616888,351000,17,153934.59
+Darwin onthetrail,camping,2019,Q1,2276388,351000,11,206944.36
+Darwin onthetrail,camping,2019,Q2,877932,351000,12,73161.0
+Darwin onthetrail,camping,2019,Q3,1172970,351000,12,97747.5
+Darwin onthetrail,camping,2019,Q4,2113715,351000,11,192155.91
+Darwin onthetrail,camping,2020,Q1,1875555,351000,11,170505.0
+Darwin onthetrail,camping,2020,Q2,1693301,351000,16,105831.31
+Darwin onthetrail,camping,2020,Q3,951082,351000,9,105675.78
+Darwin onthetrail,camping,2020,Q4,1191667,351000,11,108333.36
+Darwin onthetrail,camping,2021,Q1,1189657,351000,9,132184.11
+Darwin onthetrail,camping,2021,Q2,639565,351000,8,79945.62
+Darwin onthetrail,camping,2021,Q3,402375,351000,4,100593.75
+Darwin onthetrail,camping,2021,Q4,179014,351000,3,59671.33
+Darwin onthetrail,camping,2022,Q1,636899,351000,6,106149.83
+Darwin onthetrail,camping,2022,Q2,0,351000,0,0
+Darwin onthetrail,camping,2022,Q3,45880,351000,1,45880.0
+Darwin onthetrail,camping,2022,Q4,133954,351000,4,33488.5
+Darwin onthetrail,camping,2023,Q1,35306,351000,3,11768.67
+Darwin onthetrail,camping,2023,Q2,101613,351000,2,50806.5
+Darwin onthetrail,camping,2023,Q3,412407,351000,4,103101.75
+Darwin onthetrail,camping,2023,Q4,887997,351000,13,68307.46
+Darwin onthetrail,camping,2024,Q1,1230097,351000,9,136677.44
+Darwin onthetrail,camping,2024,Q2,1055808,351000,10,105580.8
+Darwin onthetrail,camping,2024,Q3,1691257,351000,10,169125.7
+Darwin onthetrail,camping,2024,Q4,1767737,351000,9,196415.22
+Duotone Wing & Foiling,wingfoiling,2020,Q2,40571,14800,9,4507.89
+Duotone Wing & Foiling,wingfoiling,2020,Q3,14061,14800,1,14061.0
+Duotone Wing & Foiling,wingfoiling,2020,Q4,93521,14800,4,23380.25
+Duotone Wing & Foiling,wingfoiling,2021,Q1,34338,14800,2,17169.0
+Duotone Wing & Foiling,wingfoiling,2021,Q2,0,14800,0,0
+Duotone Wing & Foiling,wingfoiling,2021,Q3,0,14800,0,0
+Duotone Wing & Foiling,wingfoiling,2021,Q4,213512,14800,31,6887.48
+Duotone Wing & Foiling,wingfoiling,2022,Q1,44527,14800,7,6361.0
+Duotone Wing & Foiling,wingfoiling,2022,Q2,87811,14800,16,5488.19
+Duotone Wing & Foiling,wingfoiling,2022,Q3,119303,14800,6,19883.83
+Duotone Wing & Foiling,wingfoiling,2022,Q4,128704,14800,19,6773.89
+Duotone Wing & Foiling,wingfoiling,2023,Q1,88803,14800,4,22200.75
+Duotone Wing & Foiling,wingfoiling,2023,Q2,50011,14800,5,10002.2
+Duotone Wing & Foiling,wingfoiling,2023,Q3,126174,14800,36,3504.83
+Duotone Wing & Foiling,wingfoiling,2023,Q4,27604,14800,4,6901.0
+Duotone Wing & Foiling,wingfoiling,2024,Q1,50322,14800,10,5032.2
+Duotone Wing & Foiling,wingfoiling,2024,Q2,273501,14800,64,4273.45
+Duotone Wing & Foiling,wingfoiling,2024,Q3,1292565,14800,40,32314.12
+Duotone Wing & Foiling,wingfoiling,2024,Q4,91633,14800,11,8330.27
+EpicTV,climbing,2015,Q1,4406229,407000,246,17911.5
+EpicTV,climbing,2015,Q2,11745397,407000,187,62809.61
+EpicTV,climbing,2015,Q3,4296693,407000,271,15854.96
+EpicTV,climbing,2015,Q4,721680,407000,37,19504.86
+EpicTV,climbing,2016,Q1,1978653,407000,41,48259.83
+EpicTV,climbing,2016,Q2,623366,407000,27,23087.63
+EpicTV,climbing,2016,Q3,826309,407000,63,13116.02
+EpicTV,climbing,2016,Q4,3440033,407000,56,61429.16
+EpicTV,climbing,2017,Q1,3908527,407000,34,114956.68
+EpicTV,climbing,2017,Q2,2380579,407000,30,79352.63
+EpicTV,climbing,2017,Q3,2194538,407000,70,31350.54
+EpicTV,climbing,2017,Q4,932022,407000,40,23300.55
+EpicTV,climbing,2018,Q1,760041,407000,36,21112.25
+EpicTV,climbing,2018,Q2,845306,407000,38,22244.89
+EpicTV,climbing,2018,Q3,686265,407000,21,32679.29
+EpicTV,climbing,2018,Q4,308710,407000,25,12348.4
+EpicTV,climbing,2019,Q1,280526,407000,16,17532.88
+EpicTV,climbing,2019,Q2,228963,407000,12,19080.25
+EpicTV,climbing,2019,Q3,466460,407000,19,24550.53
+EpicTV,climbing,2019,Q4,867697,407000,25,34707.88
+EpicTV,climbing,2020,Q1,1165328,407000,28,41618.86
+EpicTV,climbing,2020,Q2,652839,407000,25,26113.56
+EpicTV,climbing,2020,Q3,1234165,407000,38,32478.03
+EpicTV,climbing,2020,Q4,1197884,407000,22,54449.27
+EpicTV,climbing,2021,Q1,2749547,407000,21,130930.81
+EpicTV,climbing,2021,Q2,1061132,407000,29,36590.76
+EpicTV,climbing,2021,Q3,725593,407000,29,25020.45
+EpicTV,climbing,2021,Q4,2722559,407000,27,100835.52
+EpicTV,climbing,2022,Q1,390095,407000,33,11821.06
+EpicTV,climbing,2022,Q2,814453,407000,27,30164.93
+EpicTV,climbing,2022,Q3,325109,407000,18,18061.61
+EpicTV,climbing,2022,Q4,1103639,407000,70,15766.27
+EpicTV,climbing,2023,Q1,463604,407000,33,14048.61
+EpicTV,climbing,2023,Q2,1009339,407000,24,42055.79
+EpicTV,climbing,2023,Q3,193381,407000,22,8790.05
+EpicTV,climbing,2023,Q4,777026,407000,35,22200.74
+EpicTV,climbing,2024,Q1,478911,407000,23,20822.22
+EpicTV,climbing,2024,Q2,136943,407000,12,11411.92
+EpicTV,climbing,2024,Q3,466265,407000,32,14570.78
+EpicTV,climbing,2024,Q4,441299,407000,33,13372.7
+Eric Hanson,hiking,2015,Q1,47857,118000,1,47857.0
+Eric Hanson,hiking,2015,Q2,0,118000,0,0
+Eric Hanson,hiking,2015,Q3,10176,118000,1,10176.0
+Eric Hanson,hiking,2015,Q4,0,118000,0,0
+Eric Hanson,hiking,2016,Q1,0,118000,0,0
+Eric Hanson,hiking,2016,Q2,0,118000,0,0
+Eric Hanson,hiking,2016,Q3,0,118000,0,0
+Eric Hanson,hiking,2016,Q4,0,118000,0,0
+Eric Hanson,hiking,2017,Q1,0,118000,0,0
+Eric Hanson,hiking,2017,Q2,0,118000,0,0
+Eric Hanson,hiking,2017,Q3,0,118000,0,0
+Eric Hanson,hiking,2017,Q4,0,118000,0,0
+Eric Hanson,hiking,2018,Q1,0,118000,0,0
+Eric Hanson,hiking,2018,Q2,0,118000,0,0
+Eric Hanson,hiking,2018,Q3,0,118000,0,0
+Eric Hanson,hiking,2018,Q4,0,118000,0,0
+Eric Hanson,hiking,2019,Q1,0,118000,0,0
+Eric Hanson,hiking,2019,Q2,0,118000,0,0
+Eric Hanson,hiking,2019,Q3,0,118000,0,0
+Eric Hanson,hiking,2019,Q4,0,118000,0,0
+Eric Hanson,hiking,2020,Q1,0,118000,0,0
+Eric Hanson,hiking,2020,Q2,0,118000,0,0
+Eric Hanson,hiking,2020,Q3,0,118000,0,0
+Eric Hanson,hiking,2020,Q4,5263,118000,2,2631.5
+Eric Hanson,hiking,2021,Q1,1646,118000,1,1646.0
+Eric Hanson,hiking,2021,Q2,0,118000,0,0
+Eric Hanson,hiking,2021,Q3,0,118000,0,0
+Eric Hanson,hiking,2021,Q4,0,118000,0,0
+Eric Hanson,hiking,2022,Q1,0,118000,0,0
+Eric Hanson,hiking,2022,Q2,0,118000,0,0
+Eric Hanson,hiking,2022,Q3,0,118000,0,0
+Eric Hanson,hiking,2022,Q4,0,118000,0,0
+Eric Hanson,hiking,2023,Q1,0,118000,0,0
+Eric Hanson,hiking,2023,Q2,11169,118000,2,5584.5
+Eric Hanson,hiking,2023,Q3,1273634,118000,15,84908.93
+Eric Hanson,hiking,2023,Q4,1581033,118000,19,83212.26
+Eric Hanson,hiking,2024,Q1,1354583,118000,18,75254.61
+Eric Hanson,hiking,2024,Q2,974272,118000,13,74944.0
+Eric Hanson,hiking,2024,Q3,2017185,118000,16,126074.06
+Eric Hanson,hiking,2024,Q4,1193392,118000,9,132599.11
+Flybubble Paragliding,paragliding,2015,Q1,378292,131000,6,63048.67
+Flybubble Paragliding,paragliding,2015,Q2,94786,131000,1,94786.0
+Flybubble Paragliding,paragliding,2015,Q3,316890,131000,5,63378.0
+Flybubble Paragliding,paragliding,2015,Q4,408509,131000,14,29179.21
+Flybubble Paragliding,paragliding,2016,Q1,240081,131000,7,34297.29
+Flybubble Paragliding,paragliding,2016,Q2,0,131000,0,0
+Flybubble Paragliding,paragliding,2016,Q3,407683,131000,8,50960.38
+Flybubble Paragliding,paragliding,2016,Q4,74877,131000,2,37438.5
+Flybubble Paragliding,paragliding,2017,Q1,209921,131000,2,104960.5
+Flybubble Paragliding,paragliding,2017,Q2,63842,131000,2,31921.0
+Flybubble Paragliding,paragliding,2017,Q3,646267,131000,4,161566.75
+Flybubble Paragliding,paragliding,2017,Q4,702753,131000,12,58562.75
+Flybubble Paragliding,paragliding,2018,Q1,578930,131000,13,44533.08
+Flybubble Paragliding,paragliding,2018,Q2,345746,131000,14,24696.14
+Flybubble Paragliding,paragliding,2018,Q3,11634002,131000,10,1163400.2
+Flybubble Paragliding,paragliding,2018,Q4,238389,131000,7,34055.57
+Flybubble Paragliding,paragliding,2019,Q1,754866,131000,16,47179.12
+Flybubble Paragliding,paragliding,2019,Q2,712944,131000,13,54841.85
+Flybubble Paragliding,paragliding,2019,Q3,428519,131000,13,32963.0
+Flybubble Paragliding,paragliding,2019,Q4,470837,131000,9,52315.22
+Flybubble Paragliding,paragliding,2020,Q1,412975,131000,9,45886.11
+Flybubble Paragliding,paragliding,2020,Q2,84366,131000,1,84366.0
+Flybubble Paragliding,paragliding,2020,Q3,26739,131000,3,8913.0
+Flybubble Paragliding,paragliding,2020,Q4,43122,131000,3,14374.0
+Flybubble Paragliding,paragliding,2021,Q1,153063,131000,1,153063.0
+Flybubble Paragliding,paragliding,2021,Q2,42456,131000,4,10614.0
+Flybubble Paragliding,paragliding,2021,Q3,10738,131000,1,10738.0
+Flybubble Paragliding,paragliding,2021,Q4,0,131000,0,0
+Flybubble Paragliding,paragliding,2022,Q1,202702,131000,8,25337.75
+Flybubble Paragliding,paragliding,2022,Q2,209522,131000,12,17460.17
+Flybubble Paragliding,paragliding,2022,Q3,387655,131000,9,43072.78
+Flybubble Paragliding,paragliding,2022,Q4,221502,131000,11,20136.55
+Flybubble Paragliding,paragliding,2023,Q1,104423,131000,9,11602.56
+Flybubble Paragliding,paragliding,2023,Q2,207587,131000,10,20758.7
+Flybubble Paragliding,paragliding,2023,Q3,152977,131000,12,12748.08
+Flybubble Paragliding,paragliding,2023,Q4,237824,131000,10,23782.4
+Flybubble Paragliding,paragliding,2024,Q1,202393,131000,16,12649.56
+Flybubble Paragliding,paragliding,2024,Q2,172615,131000,16,10788.44
+Flybubble Paragliding,paragliding,2024,Q3,233910,131000,12,19492.5
+Flybubble Paragliding,paragliding,2024,Q4,137882,131000,10,13788.2
+Global Mountain Bike Network,mountain biking,2015,Q1,8804441,2050000,27,326090.41
+Global Mountain Bike Network,mountain biking,2015,Q2,23030475,2050000,78,295262.5
+Global Mountain Bike Network,mountain biking,2015,Q3,26091880,2050000,86,303393.95
+Global Mountain Bike Network,mountain biking,2015,Q4,18322358,2050000,81,226201.95
+Global Mountain Bike Network,mountain biking,2016,Q1,23186375,2050000,99,234205.81
+Global Mountain Bike Network,mountain biking,2016,Q2,21651579,2050000,116,186651.54
+Global Mountain Bike Network,mountain biking,2016,Q3,24867199,2050000,131,189825.95
+Global Mountain Bike Network,mountain biking,2016,Q4,21867569,2050000,120,182229.74
+Global Mountain Bike Network,mountain biking,2017,Q1,24367119,2050000,108,225621.47
+Global Mountain Bike Network,mountain biking,2017,Q2,21833823,2050000,118,185032.4
+Global Mountain Bike Network,mountain biking,2017,Q3,30070246,2050000,105,286383.3
+Global Mountain Bike Network,mountain biking,2017,Q4,19181501,2050000,91,210785.73
+Global Mountain Bike Network,mountain biking,2018,Q1,16721414,2050000,75,222952.19
+Global Mountain Bike Network,mountain biking,2018,Q2,21821543,2050000,90,242461.59
+Global Mountain Bike Network,mountain biking,2018,Q3,16155495,2050000,87,185695.34
+Global Mountain Bike Network,mountain biking,2018,Q4,19072917,2050000,92,207314.32
+Global Mountain Bike Network,mountain biking,2019,Q1,20687158,2050000,91,227331.41
+Global Mountain Bike Network,mountain biking,2019,Q2,27542823,2050000,91,302668.38
+Global Mountain Bike Network,mountain biking,2019,Q3,14365098,2050000,97,148093.79
+Global Mountain Bike Network,mountain biking,2019,Q4,14420171,2050000,89,162024.39
+Global Mountain Bike Network,mountain biking,2020,Q1,15862325,2050000,90,176248.06
+Global Mountain Bike Network,mountain biking,2020,Q2,11901150,2050000,92,129360.33
+Global Mountain Bike Network,mountain biking,2020,Q3,13459350,2050000,93,144724.19
+Global Mountain Bike Network,mountain biking,2020,Q4,12076709,2050000,91,132711.09
+Global Mountain Bike Network,mountain biking,2021,Q1,13779298,2050000,98,140605.08
+Global Mountain Bike Network,mountain biking,2021,Q2,10924636,2050000,92,118746.04
+Global Mountain Bike Network,mountain biking,2021,Q3,9010650,2050000,97,92893.3
+Global Mountain Bike Network,mountain biking,2021,Q4,8940624,2050000,99,90309.33
+Global Mountain Bike Network,mountain biking,2022,Q1,13132874,2050000,137,95860.39
+Global Mountain Bike Network,mountain biking,2022,Q2,13487970,2050000,130,103753.62
+Global Mountain Bike Network,mountain biking,2022,Q3,14157997,2050000,264,53628.78
+Global Mountain Bike Network,mountain biking,2022,Q4,17177335,2050000,363,47320.48
+Global Mountain Bike Network,mountain biking,2023,Q1,19293556,2050000,386,49983.31
+Global Mountain Bike Network,mountain biking,2023,Q2,15383588,2050000,356,43212.33
+Global Mountain Bike Network,mountain biking,2023,Q3,14491483,2050000,346,41882.9
+Global Mountain Bike Network,mountain biking,2023,Q4,12806024,2050000,340,37664.78
+Global Mountain Bike Network,mountain biking,2024,Q1,10839597,2050000,290,37377.92
+Global Mountain Bike Network,mountain biking,2024,Q2,9659065,2050000,212,45561.63
+Global Mountain Bike Network,mountain biking,2024,Q3,11476450,2050000,358,32057.12
+Global Mountain Bike Network,mountain biking,2024,Q4,7639974,2050000,203,37635.34
+Greg Hamerton,paragliding,2015,Q1,0,95,0,0
+Greg Hamerton,paragliding,2015,Q2,0,95,0,0
+Greg Hamerton,paragliding,2015,Q3,0,95,0,0
+Greg Hamerton,paragliding,2015,Q4,0,95,0,0
+Greg Hamerton,paragliding,2016,Q1,0,95,0,0
+Greg Hamerton,paragliding,2016,Q2,0,95,0,0
+Greg Hamerton,paragliding,2016,Q3,0,95,0,0
+Greg Hamerton,paragliding,2016,Q4,0,95,0,0
+Greg Hamerton,paragliding,2017,Q1,0,95,0,0
+Greg Hamerton,paragliding,2017,Q2,0,95,0,0
+Greg Hamerton,paragliding,2017,Q3,0,95,0,0
+Greg Hamerton,paragliding,2017,Q4,0,95,0,0
+Greg Hamerton,paragliding,2018,Q1,0,95,0,0
+Greg Hamerton,paragliding,2018,Q2,0,95,0,0
+Greg Hamerton,paragliding,2018,Q3,0,95,0,0
+Greg Hamerton,paragliding,2018,Q4,0,95,0,0
+Greg Hamerton,paragliding,2019,Q1,0,95,0,0
+Greg Hamerton,paragliding,2019,Q2,0,95,0,0
+Greg Hamerton,paragliding,2019,Q3,0,95,0,0
+Greg Hamerton,paragliding,2019,Q4,0,95,0,0
+Greg Hamerton,paragliding,2020,Q1,0,95,0,0
+Greg Hamerton,paragliding,2020,Q2,0,95,1,0.0
+Greg Hamerton,paragliding,2020,Q3,0,95,0,0
+Greg Hamerton,paragliding,2020,Q4,0,95,1,0.0
+Greg Hamerton,paragliding,2021,Q1,0,95,0,0
+Greg Hamerton,paragliding,2021,Q2,0,95,0,0
+Greg Hamerton,paragliding,2021,Q3,0,95,0,0
+Greg Hamerton,paragliding,2021,Q4,0,95,0,0
+Greg Hamerton,paragliding,2022,Q1,0,95,0,0
+Greg Hamerton,paragliding,2022,Q2,0,95,0,0
+Greg Hamerton,paragliding,2022,Q3,0,95,0,0
+Greg Hamerton,paragliding,2022,Q4,0,95,0,0
+Greg Hamerton,paragliding,2023,Q1,0,95,0,0
+Greg Hamerton,paragliding,2023,Q2,0,95,0,0
+Greg Hamerton,paragliding,2023,Q3,0,95,0,0
+Greg Hamerton,paragliding,2023,Q4,0,95,0,0
+Greg Hamerton,paragliding,2024,Q1,0,95,0,0
+Greg Hamerton,paragliding,2024,Q2,0,95,0,0
+Greg Hamerton,paragliding,2024,Q3,0,95,0,0
+Greg Hamerton,paragliding,2024,Q4,0,95,0,0
+Homemade Wanderlust,camping,2015,Q1,0,447000,0,0
+Homemade Wanderlust,hiking,2015,Q1,0,447000,0,0
+Homemade Wanderlust,camping,2015,Q2,1286341,447000,12,107195.08
+Homemade Wanderlust,hiking,2015,Q2,1286341,447000,12,107195.08
+Homemade Wanderlust,camping,2015,Q3,1267381,447000,25,50695.24
+Homemade Wanderlust,hiking,2015,Q3,1267381,447000,25,50695.24
+Homemade Wanderlust,camping,2015,Q4,1283297,447000,25,51331.88
+Homemade Wanderlust,hiking,2015,Q4,1283297,447000,25,51331.88
+Homemade Wanderlust,camping,2016,Q1,248445,447000,15,16563.0
+Homemade Wanderlust,hiking,2016,Q1,248445,447000,15,16563.0
+Homemade Wanderlust,camping,2016,Q2,1329807,447000,12,110817.25
+Homemade Wanderlust,hiking,2016,Q2,1329807,447000,12,110817.25
+Homemade Wanderlust,camping,2016,Q3,1975496,447000,14,141106.86
+Homemade Wanderlust,hiking,2016,Q3,1975496,447000,14,141106.86
+Homemade Wanderlust,camping,2016,Q4,2215485,447000,15,147699.0
+Homemade Wanderlust,hiking,2016,Q4,2215485,447000,15,147699.0
+Homemade Wanderlust,camping,2017,Q1,1809379,447000,16,113086.19
+Homemade Wanderlust,hiking,2017,Q1,1809382,447000,16,113086.38
+Homemade Wanderlust,camping,2017,Q2,2650616,447000,18,147256.44
+Homemade Wanderlust,hiking,2017,Q2,2650616,447000,18,147256.44
+Homemade Wanderlust,camping,2017,Q3,2885210,447000,23,125443.91
+Homemade Wanderlust,hiking,2017,Q3,2885211,447000,23,125443.96
+Homemade Wanderlust,camping,2017,Q4,5366681,447000,25,214667.24
+Homemade Wanderlust,hiking,2017,Q4,5366683,447000,25,214667.32
+Homemade Wanderlust,camping,2018,Q1,5538528,447000,20,276926.4
+Homemade Wanderlust,hiking,2018,Q1,5538528,447000,20,276926.4
+Homemade Wanderlust,camping,2018,Q2,3840879,447000,19,202151.53
+Homemade Wanderlust,hiking,2018,Q2,3840885,447000,19,202151.84
+Homemade Wanderlust,camping,2018,Q3,1807254,447000,17,106309.06
+Homemade Wanderlust,hiking,2018,Q3,1807253,447000,17,106309.0
+Homemade Wanderlust,camping,2018,Q4,4158239,447000,21,198011.38
+Homemade Wanderlust,hiking,2018,Q4,4158239,447000,21,198011.38
+Homemade Wanderlust,camping,2019,Q1,11525650,447000,33,349262.12
+Homemade Wanderlust,hiking,2019,Q1,11525682,447000,33,349263.09
+Homemade Wanderlust,camping,2019,Q2,1553068,447000,14,110933.43
+Homemade Wanderlust,hiking,2019,Q2,1553068,447000,14,110933.43
+Homemade Wanderlust,camping,2019,Q3,1696348,447000,14,121167.71
+Homemade Wanderlust,hiking,2019,Q3,1696348,447000,14,121167.71
+Homemade Wanderlust,camping,2019,Q4,6599446,447000,20,329972.3
+Homemade Wanderlust,hiking,2019,Q4,6599444,447000,20,329972.2
+Homemade Wanderlust,camping,2020,Q1,2788984,447000,17,164057.88
+Homemade Wanderlust,hiking,2020,Q1,2788983,447000,17,164057.82
+Homemade Wanderlust,camping,2020,Q2,2919763,447000,14,208554.5
+Homemade Wanderlust,hiking,2020,Q2,2919765,447000,14,208554.64
+Homemade Wanderlust,camping,2020,Q3,2000512,447000,23,86978.78
+Homemade Wanderlust,hiking,2020,Q3,2000513,447000,23,86978.83
+Homemade Wanderlust,camping,2020,Q4,1336599,447000,13,102815.31
+Homemade Wanderlust,hiking,2020,Q4,1336599,447000,13,102815.31
+Homemade Wanderlust,camping,2021,Q1,1970899,447000,15,131393.27
+Homemade Wanderlust,hiking,2021,Q1,1970899,447000,15,131393.27
+Homemade Wanderlust,camping,2021,Q2,1446669,447000,17,85098.18
+Homemade Wanderlust,hiking,2021,Q2,1446670,447000,17,85098.24
+Homemade Wanderlust,camping,2021,Q3,1364274,447000,13,104944.15
+Homemade Wanderlust,hiking,2021,Q3,1364277,447000,13,104944.38
+Homemade Wanderlust,camping,2021,Q4,1762240,447000,15,117482.67
+Homemade Wanderlust,hiking,2021,Q4,1762240,447000,15,117482.67
+Homemade Wanderlust,camping,2022,Q1,1328701,447000,19,69931.63
+Homemade Wanderlust,hiking,2022,Q1,1328703,447000,19,69931.74
+Homemade Wanderlust,camping,2022,Q2,1483959,447000,18,82442.17
+Homemade Wanderlust,hiking,2022,Q2,1483958,447000,18,82442.11
+Homemade Wanderlust,camping,2022,Q3,2609216,447000,33,79067.15
+Homemade Wanderlust,hiking,2022,Q3,2609218,447000,33,79067.21
+Homemade Wanderlust,camping,2022,Q4,1090432,447000,15,72695.47
+Homemade Wanderlust,hiking,2022,Q4,1090432,447000,15,72695.47
+Homemade Wanderlust,camping,2023,Q1,1354400,447000,15,90293.33
+Homemade Wanderlust,hiking,2023,Q1,1354400,447000,15,90293.33
+Homemade Wanderlust,camping,2023,Q2,2186378,447000,12,182198.17
+Homemade Wanderlust,hiking,2023,Q2,2186375,447000,12,182197.92
+Homemade Wanderlust,camping,2023,Q3,2636048,447000,19,138739.37
+Homemade Wanderlust,hiking,2023,Q3,2636050,447000,19,138739.47
+Homemade Wanderlust,camping,2023,Q4,2316911,447000,41,56510.02
+Homemade Wanderlust,hiking,2023,Q4,2316910,447000,41,56510.0
+Homemade Wanderlust,camping,2024,Q1,1007959,447000,15,67197.27
+Homemade Wanderlust,hiking,2024,Q1,1007959,447000,15,67197.27
+Homemade Wanderlust,camping,2024,Q2,700960,447000,17,41232.94
+Homemade Wanderlust,hiking,2024,Q2,700960,447000,17,41232.94
+Homemade Wanderlust,camping,2024,Q3,1028859,447000,35,29395.97
+Homemade Wanderlust,hiking,2024,Q3,1028857,447000,35,29395.91
+Homemade Wanderlust,camping,2024,Q4,719318,447000,13,55332.15
+Homemade Wanderlust,hiking,2024,Q4,719313,447000,13,55331.77
+Koa Smith,surfing,2015,Q1,0,192000,0,0
+Koa Smith,surfing,2015,Q2,5041,192000,1,5041.0
+Koa Smith,surfing,2015,Q3,0,192000,0,0
+Koa Smith,surfing,2015,Q4,26022,192000,1,26022.0
+Koa Smith,surfing,2016,Q1,0,192000,0,0
+Koa Smith,surfing,2016,Q2,43496,192000,1,43496.0
+Koa Smith,surfing,2016,Q3,0,192000,0,0
+Koa Smith,surfing,2016,Q4,102468,192000,2,51234.0
+Koa Smith,surfing,2017,Q1,0,192000,0,0
+Koa Smith,surfing,2017,Q2,0,192000,0,0
+Koa Smith,surfing,2017,Q3,0,192000,0,0
+Koa Smith,surfing,2017,Q4,0,192000,0,0
+Koa Smith,surfing,2018,Q1,0,192000,0,0
+Koa Smith,surfing,2018,Q2,0,192000,0,0
+Koa Smith,surfing,2018,Q3,0,192000,0,0
+Koa Smith,surfing,2018,Q4,0,192000,0,0
+Koa Smith,surfing,2019,Q1,583139,192000,1,583139.0
+Koa Smith,surfing,2019,Q2,591945,192000,3,197315.0
+Koa Smith,surfing,2019,Q3,783006,192000,5,156601.2
+Koa Smith,surfing,2019,Q4,154487,192000,3,51495.67
+Koa Smith,surfing,2020,Q1,753392,192000,7,107627.43
+Koa Smith,surfing,2020,Q2,770101,192000,12,64175.08
+Koa Smith,surfing,2020,Q3,1327604,192000,11,120691.27
+Koa Smith,surfing,2020,Q4,2239606,192000,9,248845.11
+Koa Smith,surfing,2021,Q1,7103081,192000,16,443942.56
+Koa Smith,surfing,2021,Q2,1179921,192000,10,117992.1
+Koa Smith,surfing,2021,Q3,1400971,192000,9,155663.44
+Koa Smith,surfing,2021,Q4,0,192000,0,0
+Koa Smith,surfing,2022,Q1,219898,192000,2,109949.0
+Koa Smith,surfing,2022,Q2,189325,192000,6,31554.17
+Koa Smith,surfing,2022,Q3,0,192000,0,0
+Koa Smith,surfing,2022,Q4,6587259,192000,49,134433.86
+Koa Smith,surfing,2023,Q1,2026310,192000,75,27017.47
+Koa Smith,surfing,2023,Q2,618529,192000,67,9231.78
+Koa Smith,surfing,2023,Q3,2022690,192000,57,35485.79
+Koa Smith,surfing,2023,Q4,2475649,192000,95,26059.46
+Koa Smith,surfing,2024,Q1,3224773,192000,90,35830.81
+Koa Smith,surfing,2024,Q2,3523899,192000,93,37891.39
+Koa Smith,surfing,2024,Q3,13646912,192000,84,162463.24
+Koa Smith,surfing,2024,Q4,864902,192000,65,13306.18
+Kraig Adams,hiking,2015,Q1,0,800000,0,0
+Kraig Adams,hiking,2015,Q2,0,800000,0,0
+Kraig Adams,hiking,2015,Q3,0,800000,0,0
+Kraig Adams,hiking,2015,Q4,0,800000,0,0
+Kraig Adams,hiking,2016,Q1,33480,800000,2,16740.0
+Kraig Adams,hiking,2016,Q2,0,800000,0,0
+Kraig Adams,hiking,2016,Q3,242629,800000,2,121314.5
+Kraig Adams,hiking,2016,Q4,53506,800000,2,26753.0
+Kraig Adams,hiking,2017,Q1,594027,800000,6,99004.5
+Kraig Adams,hiking,2017,Q2,1529757,800000,15,101983.8
+Kraig Adams,hiking,2017,Q3,992344,800000,16,62021.5
+Kraig Adams,hiking,2017,Q4,1440897,800000,7,205842.43
+Kraig Adams,hiking,2018,Q1,1937696,800000,15,129179.73
+Kraig Adams,hiking,2018,Q2,553967,800000,12,46163.92
+Kraig Adams,hiking,2018,Q3,836516,800000,9,92946.22
+Kraig Adams,hiking,2018,Q4,504992,800000,8,63124.0
+Kraig Adams,hiking,2019,Q1,1914259,800000,14,136732.79
+Kraig Adams,hiking,2019,Q2,1834282,800000,9,203809.11
+Kraig Adams,hiking,2019,Q3,7153803,800000,5,1430760.6
+Kraig Adams,hiking,2019,Q4,3612027,800000,6,602004.5
+Kraig Adams,hiking,2020,Q1,4534800,800000,5,906960.0
+Kraig Adams,hiking,2020,Q2,3781824,800000,5,756364.8
+Kraig Adams,hiking,2020,Q3,8031739,800000,8,1003967.38
+Kraig Adams,hiking,2020,Q4,1301375,800000,9,144597.22
+Kraig Adams,hiking,2021,Q1,1136425,800000,3,378808.33
+Kraig Adams,hiking,2021,Q2,916541,800000,5,183308.2
+Kraig Adams,hiking,2021,Q3,2652401,800000,3,884133.67
+Kraig Adams,hiking,2021,Q4,5600337,800000,5,1120067.4
+Kraig Adams,hiking,2022,Q1,324960,800000,3,108320.0
+Kraig Adams,hiking,2022,Q2,871010,800000,4,217752.5
+Kraig Adams,hiking,2022,Q3,2300391,800000,8,287548.88
+Kraig Adams,hiking,2022,Q4,1151862,800000,10,115186.2
+Kraig Adams,hiking,2023,Q1,669338,800000,6,111556.33
+Kraig Adams,hiking,2023,Q2,614161,800000,4,153540.25
+Kraig Adams,hiking,2023,Q3,984559,800000,5,196911.8
+Kraig Adams,hiking,2023,Q4,3823444,800000,14,273103.14
+Kraig Adams,hiking,2024,Q1,920934,800000,19,48470.21
+Kraig Adams,hiking,2024,Q2,832360,800000,7,118908.57
+Kraig Adams,hiking,2024,Q3,135084,800000,7,19297.71
+Kraig Adams,hiking,2024,Q4,679935,800000,8,84991.88
+Magnus Midtbø,climbing,2015,Q1,64414,3240000,1,64414.0
+Magnus Midtbø,climbing,2015,Q2,51762,3240000,2,25881.0
+Magnus Midtbø,climbing,2015,Q3,0,3240000,0,0
+Magnus Midtbø,climbing,2015,Q4,0,3240000,0,0
+Magnus Midtbø,climbing,2016,Q1,278586,3240000,1,278586.0
+Magnus Midtbø,climbing,2016,Q2,150018,3240000,2,75009.0
+Magnus Midtbø,climbing,2016,Q3,0,3240000,0,0
+Magnus Midtbø,climbing,2016,Q4,0,3240000,0,0
+Magnus Midtbø,climbing,2017,Q1,367957,3240000,7,52565.29
+Magnus Midtbø,climbing,2017,Q2,2025927,3240000,41,49412.85
+Magnus Midtbø,climbing,2017,Q3,6888516,3240000,34,202603.41
+Magnus Midtbø,climbing,2017,Q4,7854956,3240000,24,327289.83
+Magnus Midtbø,climbing,2018,Q1,1813555,3240000,16,113347.19
+Magnus Midtbø,climbing,2018,Q2,569741,3240000,6,94956.83
+Magnus Midtbø,climbing,2018,Q3,1714386,3240000,11,155853.27
+Magnus Midtbø,climbing,2018,Q4,3821959,3240000,12,318496.58
+Magnus Midtbø,climbing,2019,Q1,16017968,3240000,18,889887.11
+Magnus Midtbø,climbing,2019,Q2,14572137,3240000,16,910758.56
+Magnus Midtbø,climbing,2019,Q3,10802161,3240000,11,982014.64
+Magnus Midtbø,climbing,2019,Q4,23990645,3240000,18,1332813.61
+Magnus Midtbø,climbing,2020,Q1,10433421,3240000,13,802570.85
+Magnus Midtbø,climbing,2020,Q2,18257460,3240000,10,1825746.0
+Magnus Midtbø,climbing,2020,Q3,12703908,3240000,9,1411545.33
+Magnus Midtbø,climbing,2020,Q4,20082735,3240000,15,1338849.0
+Magnus Midtbø,climbing,2021,Q1,10856253,3240000,12,904687.75
+Magnus Midtbø,climbing,2021,Q2,18113662,3240000,13,1393358.62
+Magnus Midtbø,climbing,2021,Q3,25921057,3240000,9,2880117.44
+Magnus Midtbø,climbing,2021,Q4,25538788,3240000,12,2128232.33
+Magnus Midtbø,climbing,2022,Q1,8785258,3240000,9,976139.78
+Magnus Midtbø,climbing,2022,Q2,21442055,3240000,7,3063150.71
+Magnus Midtbø,climbing,2022,Q3,15665599,3240000,8,1958199.88
+Magnus Midtbø,climbing,2022,Q4,39311424,3240000,9,4367936.0
+Magnus Midtbø,climbing,2023,Q1,32805367,3240000,8,4100670.88
+Magnus Midtbø,climbing,2023,Q2,24501770,3240000,8,3062721.25
+Magnus Midtbø,climbing,2023,Q3,23256721,3240000,7,3322388.71
+Magnus Midtbø,climbing,2023,Q4,42310741,3240000,14,3022195.79
+Magnus Midtbø,climbing,2024,Q1,12313512,3240000,8,1539189.0
+Magnus Midtbø,climbing,2024,Q2,31355455,3240000,10,3135545.5
+Magnus Midtbø,climbing,2024,Q3,9496051,3240000,5,1899210.2
+Magnus Midtbø,climbing,2024,Q4,38177552,3240000,13,2936734.77
+Mani the Monkey,climbing,2015,Q1,0,98200,0,0
+Mani the Monkey,climbing,2015,Q2,0,98200,0,0
+Mani the Monkey,climbing,2015,Q3,0,98200,0,0
+Mani the Monkey,climbing,2015,Q4,0,98200,0,0
+Mani the Monkey,climbing,2016,Q1,717510,98200,43,16686.28
+Mani the Monkey,climbing,2016,Q2,2045714,98200,42,48707.48
+Mani the Monkey,climbing,2016,Q3,1005695,98200,30,33523.17
+Mani the Monkey,climbing,2016,Q4,941568,98200,25,37662.72
+Mani the Monkey,climbing,2017,Q1,857826,98200,26,32993.31
+Mani the Monkey,climbing,2017,Q2,1074174,98200,31,34650.77
+Mani the Monkey,climbing,2017,Q3,861407,98200,35,24611.63
+Mani the Monkey,climbing,2017,Q4,910915,98200,20,45545.75
+Mani the Monkey,climbing,2018,Q1,883765,98200,21,42084.05
+Mani the Monkey,climbing,2018,Q2,806708,98200,27,29878.07
+Mani the Monkey,climbing,2018,Q3,1134370,98200,31,36592.58
+Mani the Monkey,climbing,2018,Q4,1175105,98200,23,51091.52
+Mani the Monkey,climbing,2019,Q1,460267,98200,20,23013.35
+Mani the Monkey,climbing,2019,Q2,278278,98200,16,17392.38
+Mani the Monkey,climbing,2019,Q3,297570,98200,23,12937.83
+Mani the Monkey,climbing,2019,Q4,1043216,98200,21,49676.95
+Mani the Monkey,climbing,2020,Q1,355552,98200,15,23703.47
+Mani the Monkey,climbing,2020,Q2,317018,98200,36,8806.06
+Mani the Monkey,climbing,2020,Q3,373311,98200,24,15554.62
+Mani the Monkey,climbing,2020,Q4,253992,98200,18,14110.67
+Mani the Monkey,climbing,2021,Q1,170071,98200,18,9448.39
+Mani the Monkey,climbing,2021,Q2,96975,98200,11,8815.91
+Mani the Monkey,climbing,2021,Q3,79652,98200,9,8850.22
+Mani the Monkey,climbing,2021,Q4,32527,98200,1,32527.0
+Mani the Monkey,climbing,2022,Q1,0,98200,0,0
+Mani the Monkey,climbing,2022,Q2,0,98200,0,0
+Mani the Monkey,climbing,2022,Q3,24005,98200,1,24005.0
+Mani the Monkey,climbing,2022,Q4,5965,98200,1,5965.0
+Mani the Monkey,climbing,2023,Q1,69764,98200,7,9966.29
+Mani the Monkey,climbing,2023,Q2,26127,98200,3,8709.0
+Mani the Monkey,climbing,2023,Q3,0,98200,0,0
+Mani the Monkey,climbing,2023,Q4,49210,98200,17,2894.71
+Mani the Monkey,climbing,2024,Q1,38786,98200,8,4848.25
+Mani the Monkey,climbing,2024,Q2,11807,98200,3,3935.67
+Mani the Monkey,climbing,2024,Q3,43347,98200,7,6192.43
+Mani the Monkey,climbing,2024,Q4,62882,98200,5,12576.4
+North Kiteboarding,kitesurfing,2018,Q3,0,44800,0,0
+North Kiteboarding,kitesurfing,2018,Q4,3504,44800,2,1752.0
+North Kiteboarding,kitesurfing,2019,Q1,13066,44800,4,3266.5
+North Kiteboarding,kitesurfing,2019,Q2,3896,44800,1,3896.0
+North Kiteboarding,kitesurfing,2019,Q3,195235,44800,24,8134.79
+North Kiteboarding,kitesurfing,2019,Q4,412153,44800,14,29439.5
+North Kiteboarding,kitesurfing,2020,Q1,55627,44800,11,5057.0
+North Kiteboarding,kitesurfing,2020,Q2,74242,44800,5,14848.4
+North Kiteboarding,kitesurfing,2020,Q3,267962,44800,18,14886.78
+North Kiteboarding,kitesurfing,2020,Q4,111237,44800,2,55618.5
+North Kiteboarding,kitesurfing,2021,Q1,159877,44800,22,7267.14
+North Kiteboarding,kitesurfing,2021,Q2,16774,44800,3,5591.33
+North Kiteboarding,kitesurfing,2021,Q3,217114,44800,10,21711.4
+North Kiteboarding,kitesurfing,2021,Q4,45499,44800,6,7583.17
+North Kiteboarding,kitesurfing,2022,Q1,60825,44800,7,8689.29
+North Kiteboarding,kitesurfing,2022,Q2,63058,44800,8,7882.25
+North Kiteboarding,kitesurfing,2022,Q3,408463,44800,73,5595.38
+North Kiteboarding,kitesurfing,2022,Q4,172093,44800,43,4002.16
+North Kiteboarding,kitesurfing,2023,Q1,135053,44800,49,2756.18
+North Kiteboarding,kitesurfing,2023,Q2,122005,44800,45,2711.22
+North Kiteboarding,kitesurfing,2023,Q3,276938,44800,38,7287.84
+North Kiteboarding,kitesurfing,2023,Q4,174167,44800,16,10885.44
+North Kiteboarding,kitesurfing,2024,Q1,211798,44800,10,21179.8
+North Kiteboarding,kitesurfing,2024,Q2,4904,44800,1,4904.0
+North Kiteboarding,kitesurfing,2024,Q3,90891,44800,9,10099.0
+North Kiteboarding,kitesurfing,2024,Q4,24344,44800,5,4868.8
+Outdoor Gear Review,camping,2020,Q1,13738,1100,14,981.29
+Outdoor Gear Review,camping,2020,Q2,16959,1100,14,1211.36
+Outdoor Gear Review,camping,2020,Q3,204,1100,2,102.0
+Outdoor Gear Review,camping,2020,Q4,49632,1100,14,3545.14
+Outdoor Gear Review,camping,2021,Q1,0,1100,0,0
+Outdoor Gear Review,camping,2021,Q2,66392,1100,56,1185.57
+Outdoor Gear Review,camping,2021,Q3,64032,1100,106,604.08
+Outdoor Gear Review,camping,2021,Q4,46710,1100,34,1373.82
+Outdoor Gear Review,camping,2022,Q1,0,1100,0,0
+Outdoor Gear Review,camping,2022,Q2,0,1100,0,0
+Outdoor Gear Review,camping,2022,Q3,19073,1100,47,405.81
+Outdoor Gear Review,camping,2022,Q4,4001,1100,19,210.58
+Outdoor Gear Review,camping,2023,Q1,1828,1100,14,130.57
+Outdoor Gear Review,camping,2023,Q2,0,1100,0,0
+Outdoor Gear Review,camping,2023,Q3,0,1100,0,0
+Outdoor Gear Review,camping,2023,Q4,0,1100,0,0
+Outdoor Gear Review,camping,2024,Q1,0,1100,0,0
+Outdoor Gear Review,camping,2024,Q2,0,1100,0,0
+Outdoor Gear Review,camping,2024,Q3,0,1100,0,0
+Outdoor Gear Review,camping,2024,Q4,0,1100,0,0
+Ozone Kites,kitesurfing,2015,Q1,0,11700,0,0
+Ozone Kites,kitesurfing,2015,Q2,0,11700,0,0
+Ozone Kites,kitesurfing,2015,Q3,0,11700,0,0
+Ozone Kites,kitesurfing,2015,Q4,0,11700,0,0
+Ozone Kites,kitesurfing,2016,Q1,0,11700,0,0
+Ozone Kites,kitesurfing,2016,Q2,0,11700,0,0
+Ozone Kites,kitesurfing,2016,Q3,10202,11700,3,3400.67
+Ozone Kites,kitesurfing,2016,Q4,82765,11700,14,5911.79
+Ozone Kites,kitesurfing,2017,Q1,4608,11700,1,4608.0
+Ozone Kites,kitesurfing,2017,Q2,0,11700,0,0
+Ozone Kites,kitesurfing,2017,Q3,13461,11700,2,6730.5
+Ozone Kites,kitesurfing,2017,Q4,14746,11700,4,3686.5
+Ozone Kites,kitesurfing,2018,Q1,136018,11700,8,17002.25
+Ozone Kites,kitesurfing,2018,Q2,178984,11700,5,35796.8
+Ozone Kites,kitesurfing,2018,Q3,12009,11700,4,3002.25
+Ozone Kites,kitesurfing,2018,Q4,23876,11700,5,4775.2
+Ozone Kites,kitesurfing,2019,Q1,33922,11700,6,5653.67
+Ozone Kites,kitesurfing,2019,Q2,24670,11700,5,4934.0
+Ozone Kites,kitesurfing,2019,Q3,538422,11700,9,59824.67
+Ozone Kites,kitesurfing,2019,Q4,22929,11700,4,5732.25
+Ozone Kites,kitesurfing,2020,Q1,4090,11700,1,4090.0
+Ozone Kites,kitesurfing,2020,Q2,5834,11700,3,1944.67
+Ozone Kites,kitesurfing,2020,Q3,55167,11700,12,4597.25
+Ozone Kites,kitesurfing,2020,Q4,46771,11700,7,6681.57
+Ozone Kites,kitesurfing,2021,Q1,427085,11700,3,142361.67
+Ozone Kites,kitesurfing,2021,Q2,20846,11700,6,3474.33
+Ozone Kites,kitesurfing,2021,Q3,13063,11700,3,4354.33
+Ozone Kites,kitesurfing,2021,Q4,15574,11700,5,3114.8
+Ozone Kites,kitesurfing,2022,Q1,18794,11700,4,4698.5
+Ozone Kites,kitesurfing,2022,Q2,21859,11700,4,5464.75
+Ozone Kites,kitesurfing,2022,Q3,3047,11700,1,3047.0
+Ozone Kites,kitesurfing,2022,Q4,22851,11700,5,4570.2
+Ozone Kites,kitesurfing,2023,Q1,17694,11700,6,2949.0
+Ozone Kites,kitesurfing,2023,Q2,114169,11700,5,22833.8
+Ozone Kites,kitesurfing,2023,Q3,29793,11700,6,4965.5
+Ozone Kites,kitesurfing,2023,Q4,109034,11700,15,7268.93
+Ozone Kites,kitesurfing,2024,Q1,50836,11700,9,5648.44
+Ozone Kites,kitesurfing,2024,Q2,30820,11700,6,5136.67
+Ozone Kites,kitesurfing,2024,Q3,21082,11700,8,2635.25
+Ozone Kites,kitesurfing,2024,Q4,53145,11700,19,2797.11
+Pinkbike,mountain biking,2015,Q3,133343,825000,2,66671.5
+Pinkbike,mountain biking,2015,Q4,3352,825000,2,1676.0
+Pinkbike,mountain biking,2016,Q1,0,825000,0,0
+Pinkbike,mountain biking,2016,Q2,0,825000,0,0
+Pinkbike,mountain biking,2016,Q3,0,825000,0,0
+Pinkbike,mountain biking,2016,Q4,0,825000,0,0
+Pinkbike,mountain biking,2017,Q1,2547349,825000,23,110754.3
+Pinkbike,mountain biking,2017,Q2,3758398,825000,78,48184.59
+Pinkbike,mountain biking,2017,Q3,3525292,825000,71,49652.0
+Pinkbike,mountain biking,2017,Q4,2464365,825000,38,64851.71
+Pinkbike,mountain biking,2018,Q1,2469803,825000,47,52549.0
+Pinkbike,mountain biking,2018,Q2,6154367,825000,84,73266.27
+Pinkbike,mountain biking,2018,Q3,17255746,825000,75,230076.61
+Pinkbike,mountain biking,2018,Q4,6536668,825000,46,142101.48
+Pinkbike,mountain biking,2019,Q1,4533734,825000,46,98559.43
+Pinkbike,mountain biking,2019,Q2,10884432,825000,63,172768.76
+Pinkbike,mountain biking,2019,Q3,9083919,825000,99,91756.76
+Pinkbike,mountain biking,2019,Q4,13363929,825000,62,215547.24
+Pinkbike,mountain biking,2020,Q1,12437837,825000,52,239189.17
+Pinkbike,mountain biking,2020,Q2,8441428,825000,55,153480.51
+Pinkbike,mountain biking,2020,Q3,10805622,825000,69,156603.22
+Pinkbike,mountain biking,2020,Q4,16892969,825000,74,228283.36
+Pinkbike,mountain biking,2021,Q1,15497416,825000,60,258290.27
+Pinkbike,mountain biking,2021,Q2,12406766,825000,87,142606.51
+Pinkbike,mountain biking,2021,Q3,11353546,825000,110,103214.05
+Pinkbike,mountain biking,2021,Q4,14861937,825000,92,161542.79
+Pinkbike,mountain biking,2022,Q1,10213797,825000,53,192713.15
+Pinkbike,mountain biking,2022,Q2,9249291,825000,91,101640.56
+Pinkbike,mountain biking,2022,Q3,7308706,825000,89,82120.29
+Pinkbike,mountain biking,2022,Q4,9068097,825000,120,75567.48
+Pinkbike,mountain biking,2023,Q1,4093634,825000,61,67108.75
+Pinkbike,mountain biking,2023,Q2,4244239,825000,59,71936.25
+Pinkbike,mountain biking,2023,Q3,10759476,825000,127,84720.28
+Pinkbike,mountain biking,2023,Q4,13078812,825000,176,74311.43
+Pinkbike,mountain biking,2024,Q1,33111482,825000,183,180937.06
+Pinkbike,mountain biking,2024,Q2,8024099,825000,189,42455.55
+Pinkbike,mountain biking,2024,Q3,5651417,825000,144,39245.95
+Pinkbike,mountain biking,2024,Q4,6591155,825000,127,51898.86
+REI,camping,2015,Q1,454161,441000,12,37846.75
+REI,camping,2015,Q2,82387,441000,7,11769.57
+REI,camping,2015,Q3,2978550,441000,21,141835.71
+REI,camping,2015,Q4,2223533,441000,13,171041.0
+REI,camping,2016,Q1,3492940,441000,15,232862.67
+REI,camping,2016,Q2,2261615,441000,20,113080.75
+REI,camping,2016,Q3,11807538,441000,51,231520.35
+REI,camping,2016,Q4,10802115,441000,41,263466.22
+REI,camping,2017,Q1,3641373,441000,18,202298.5
+REI,camping,2017,Q2,7172236,441000,25,286889.44
+REI,camping,2017,Q3,3573743,441000,15,238249.53
+REI,camping,2017,Q4,5530720,441000,23,240466.09
+REI,camping,2018,Q1,8871087,441000,39,227463.77
+REI,camping,2018,Q2,5561987,441000,21,264856.52
+REI,camping,2018,Q3,8481969,441000,32,265061.53
+REI,camping,2018,Q4,5193784,441000,23,225816.7
+REI,camping,2019,Q1,7430520,441000,20,371526.0
+REI,camping,2019,Q2,11734361,441000,53,221403.04
+REI,camping,2019,Q3,7840922,441000,71,110435.52
+REI,camping,2019,Q4,6658023,441000,60,110967.05
+REI,camping,2020,Q1,4339079,441000,18,241059.94
+REI,camping,2020,Q2,1106437,441000,25,44257.48
+REI,camping,2020,Q3,3500029,441000,28,125001.04
+REI,camping,2020,Q4,3660350,441000,26,140782.69
+REI,camping,2021,Q1,1332562,441000,20,66628.1
+REI,camping,2021,Q2,4278273,441000,26,164548.96
+REI,camping,2021,Q3,2969596,441000,24,123733.17
+REI,camping,2021,Q4,1588963,441000,23,69085.35
+REI,camping,2022,Q1,1070768,441000,30,35692.27
+REI,camping,2022,Q2,605310,441000,12,50442.5
+REI,camping,2022,Q3,667440,441000,15,44496.0
+REI,camping,2022,Q4,238854,441000,11,21714.0
+REI,camping,2023,Q1,2206701,441000,32,68959.41
+REI,camping,2023,Q2,1824084,441000,12,152007.0
+REI,camping,2023,Q3,2917881,441000,18,162104.5
+REI,camping,2023,Q4,288733,441000,9,32081.44
+REI,camping,2024,Q1,16480,441000,3,5493.33
+REI,camping,2024,Q2,272939,441000,100,2729.39
+REI,camping,2024,Q3,428634,441000,100,4286.34
+REI,camping,2024,Q4,44485,441000,32,1390.16
+Red Gerard,snowboarding,2015,Q1,0,1,0,0
+Red Gerard,snowboarding,2015,Q2,0,1,0,0
+Red Gerard,snowboarding,2015,Q3,0,1,0,0
+Red Gerard,snowboarding,2015,Q4,0,1,0,0
+Red Gerard,snowboarding,2016,Q1,0,1,0,0
+Red Gerard,snowboarding,2016,Q2,0,1,0,0
+Red Gerard,snowboarding,2016,Q3,0,1,0,0
+Red Gerard,snowboarding,2016,Q4,54,1,2,27.0
+Red Gerard,snowboarding,2017,Q1,0,1,0,0
+Red Gerard,snowboarding,2017,Q2,0,1,0,0
+Red Gerard,snowboarding,2017,Q3,0,1,0,0
+Red Gerard,snowboarding,2017,Q4,0,1,0,0
+Red Gerard,snowboarding,2018,Q1,0,1,0,0
+Red Gerard,snowboarding,2018,Q2,39,1,1,39.0
+Red Gerard,snowboarding,2018,Q3,10,1,1,10.0
+Red Gerard,snowboarding,2018,Q4,0,1,0,0
+Red Gerard,snowboarding,2019,Q1,0,1,0,0
+Red Gerard,snowboarding,2019,Q2,0,1,0,0
+Red Gerard,snowboarding,2019,Q3,0,1,0,0
+Red Gerard,snowboarding,2019,Q4,0,1,0,0
+Red Gerard,snowboarding,2020,Q1,0,1,0,0
+Red Gerard,snowboarding,2020,Q2,0,1,0,0
+Red Gerard,snowboarding,2020,Q3,0,1,0,0
+Red Gerard,snowboarding,2020,Q4,0,1,0,0
+Red Gerard,snowboarding,2021,Q1,0,1,0,0
+Red Gerard,snowboarding,2021,Q2,0,1,0,0
+Red Gerard,snowboarding,2021,Q3,0,1,0,0
+Red Gerard,snowboarding,2021,Q4,0,1,0,0
+Red Gerard,snowboarding,2022,Q1,0,1,0,0
+Red Gerard,snowboarding,2022,Q2,0,1,0,0
+Red Gerard,snowboarding,2022,Q3,370,1,1,370.0
+Red Gerard,snowboarding,2022,Q4,0,1,0,0
+Red Gerard,snowboarding,2023,Q1,0,1,0,0
+Red Gerard,snowboarding,2023,Q2,0,1,0,0
+Red Gerard,snowboarding,2023,Q3,0,1,0,0
+Red Gerard,snowboarding,2023,Q4,0,1,0,0
+Red Gerard,snowboarding,2024,Q1,0,1,0,0
+Red Gerard,snowboarding,2024,Q2,0,1,0,0
+Red Gerard,snowboarding,2024,Q3,0,1,0,0
+Red Gerard,snowboarding,2024,Q4,0,1,0,0
+SURFER,surfing,2015,Q1,1196013,206000,7,170859.0
+SURFER,surfing,2015,Q2,942525,206000,6,157087.5
+SURFER,surfing,2015,Q3,653051,206000,20,32652.55
+SURFER,surfing,2015,Q4,385952,206000,44,8771.64
+SURFER,surfing,2016,Q1,981373,206000,17,57727.82
+SURFER,surfing,2016,Q2,921575,206000,4,230393.75
+SURFER,surfing,2016,Q3,351728,206000,2,175864.0
+SURFER,surfing,2016,Q4,1392739,206000,35,39792.54
+SURFER,surfing,2017,Q1,1597689,206000,19,84088.89
+SURFER,surfing,2017,Q2,1183709,206000,37,31992.14
+SURFER,surfing,2017,Q3,1491688,206000,31,48118.97
+SURFER,surfing,2017,Q4,1341162,206000,52,25791.58
+SURFER,surfing,2018,Q1,1732572,206000,53,32690.04
+SURFER,surfing,2018,Q2,4198832,206000,108,38878.07
+SURFER,surfing,2018,Q3,7098562,206000,99,71702.65
+SURFER,surfing,2018,Q4,2781096,206000,59,47137.22
+SURFER,surfing,2019,Q1,2496780,206000,21,118894.29
+SURFER,surfing,2019,Q2,1010729,206000,25,40429.16
+SURFER,surfing,2019,Q3,3319821,206000,27,122956.33
+SURFER,surfing,2019,Q4,2656072,206000,35,75887.77
+SURFER,surfing,2020,Q1,899382,206000,18,49965.67
+SURFER,surfing,2020,Q2,1417180,206000,31,45715.48
+SURFER,surfing,2020,Q3,1470787,206000,20,73539.35
+SURFER,surfing,2020,Q4,146253,206000,3,48751.0
+SURFER,surfing,2021,Q1,0,206000,0,0
+SURFER,surfing,2021,Q2,0,206000,0,0
+SURFER,surfing,2021,Q3,0,206000,0,0
+SURFER,surfing,2021,Q4,0,206000,0,0
+SURFER,surfing,2022,Q1,0,206000,0,0
+SURFER,surfing,2022,Q2,0,206000,0,0
+SURFER,surfing,2022,Q3,0,206000,0,0
+SURFER,surfing,2022,Q4,0,206000,0,0
+SURFER,surfing,2023,Q1,745252,206000,12,62104.33
+SURFER,surfing,2023,Q2,1717617,206000,51,33678.76
+SURFER,surfing,2023,Q3,2702481,206000,18,150137.83
+SURFER,surfing,2023,Q4,67801,206000,9,7533.44
+SURFER,surfing,2024,Q1,66057,206000,2,33028.5
+SURFER,surfing,2024,Q2,43832,206000,9,4870.22
+SURFER,surfing,2024,Q3,464190,206000,36,12894.17
+SURFER,surfing,2024,Q4,169370,206000,21,8065.24
+Sage Canaday,trail running,2015,Q1,0,696,0,0
+Sage Canaday,trail running,2015,Q2,0,696,0,0
+Sage Canaday,trail running,2015,Q3,0,696,0,0
+Sage Canaday,trail running,2015,Q4,0,696,0,0
+Sage Canaday,trail running,2016,Q1,0,696,0,0
+Sage Canaday,trail running,2016,Q2,0,696,0,0
+Sage Canaday,trail running,2016,Q3,0,696,0,0
+Sage Canaday,trail running,2016,Q4,0,696,0,0
+Sage Canaday,trail running,2017,Q1,0,696,0,0
+Sage Canaday,trail running,2017,Q2,0,696,0,0
+Sage Canaday,trail running,2017,Q3,0,696,0,0
+Sage Canaday,trail running,2017,Q4,0,696,0,0
+Sage Canaday,trail running,2018,Q1,6223,696,8,777.88
+Sage Canaday,trail running,2018,Q2,1918,696,2,959.0
+Sage Canaday,trail running,2018,Q3,794,696,1,794.0
+Sage Canaday,trail running,2018,Q4,0,696,0,0
+Sage Canaday,trail running,2019,Q1,0,696,0,0
+Sage Canaday,trail running,2019,Q2,0,696,0,0
+Sage Canaday,trail running,2019,Q3,0,696,0,0
+Sage Canaday,trail running,2019,Q4,247,696,1,247.0
+Sage Canaday,trail running,2020,Q1,0,696,0,0
+Sage Canaday,trail running,2020,Q2,0,696,0,0
+Sage Canaday,trail running,2020,Q3,259,696,1,259.0
+Sage Canaday,trail running,2020,Q4,867,696,2,433.5
+Sage Canaday,trail running,2021,Q1,0,696,0,0
+Sage Canaday,trail running,2021,Q2,166,696,1,166.0
+Sage Canaday,trail running,2021,Q3,0,696,0,0
+Sage Canaday,trail running,2021,Q4,0,696,0,0
+Sage Canaday,trail running,2022,Q1,0,696,0,0
+Sage Canaday,trail running,2022,Q2,0,696,0,0
+Sage Canaday,trail running,2022,Q3,0,696,0,0
+Sage Canaday,trail running,2022,Q4,8684,696,1,8684.0
+Sage Canaday,trail running,2023,Q1,0,696,0,0
+Sage Canaday,trail running,2023,Q2,0,696,0,0
+Sage Canaday,trail running,2023,Q3,0,696,0,0
+Sage Canaday,trail running,2023,Q4,0,696,0,0
+Sage Canaday,trail running,2024,Q1,0,696,0,0
+Sage Canaday,trail running,2024,Q2,0,696,0,0
+Sage Canaday,trail running,2024,Q3,0,696,0,0
+Sage Canaday,trail running,2024,Q4,0,696,0,0
+Shaun White,snowboarding,2015,Q1,0,78500,0,0
+Shaun White,snowboarding,2015,Q2,0,78500,0,0
+Shaun White,snowboarding,2015,Q3,0,78500,0,0
+Shaun White,snowboarding,2015,Q4,0,78500,0,0
+Shaun White,snowboarding,2016,Q1,0,78500,0,0
+Shaun White,snowboarding,2016,Q2,0,78500,0,0
+Shaun White,snowboarding,2016,Q3,37886,78500,1,37886.0
+Shaun White,snowboarding,2016,Q4,0,78500,0,0
+Shaun White,snowboarding,2017,Q1,60061,78500,2,30030.5
+Shaun White,snowboarding,2017,Q2,0,78500,0,0
+Shaun White,snowboarding,2017,Q3,0,78500,0,0
+Shaun White,snowboarding,2017,Q4,101416,78500,3,33805.33
+Shaun White,snowboarding,2018,Q1,0,78500,0,0
+Shaun White,snowboarding,2018,Q2,5133,78500,1,5133.0
+Shaun White,snowboarding,2018,Q3,41899,78500,5,8379.8
+Shaun White,snowboarding,2018,Q4,0,78500,0,0
+Shaun White,snowboarding,2019,Q1,0,78500,0,0
+Shaun White,snowboarding,2019,Q2,0,78500,0,0
+Shaun White,snowboarding,2019,Q3,0,78500,0,0
+Shaun White,snowboarding,2019,Q4,0,78500,0,0
+Shaun White,snowboarding,2020,Q1,0,78500,0,0
+Shaun White,snowboarding,2020,Q2,0,78500,0,0
+Shaun White,snowboarding,2020,Q3,0,78500,0,0
+Shaun White,snowboarding,2020,Q4,0,78500,0,0
+Shaun White,snowboarding,2021,Q1,0,78500,0,0
+Shaun White,snowboarding,2021,Q2,0,78500,0,0
+Shaun White,snowboarding,2021,Q3,0,78500,0,0
+Shaun White,snowboarding,2021,Q4,0,78500,0,0
+Shaun White,snowboarding,2022,Q1,0,78500,0,0
+Shaun White,snowboarding,2022,Q2,0,78500,0,0
+Shaun White,snowboarding,2022,Q3,0,78500,0,0
+Shaun White,snowboarding,2022,Q4,0,78500,0,0
+Shaun White,snowboarding,2023,Q1,0,78500,0,0
+Shaun White,snowboarding,2023,Q2,0,78500,0,0
+Shaun White,snowboarding,2023,Q3,0,78500,0,0
+Shaun White,snowboarding,2023,Q4,0,78500,0,0
+Shaun White,snowboarding,2024,Q1,0,78500,0,0
+Shaun White,snowboarding,2024,Q2,0,78500,0,0
+Shaun White,snowboarding,2024,Q3,11306138,78500,44,256957.68
+Shaun White,snowboarding,2024,Q4,263257,78500,18,14625.39
+Skills With Phil,mountain biking,2015,Q1,16374,573000,1,16374.0
+Skills With Phil,mountain biking,2015,Q2,964862,573000,3,321620.67
+Skills With Phil,mountain biking,2015,Q3,0,573000,0,0
+Skills With Phil,mountain biking,2015,Q4,641725,573000,3,213908.33
+Skills With Phil,mountain biking,2016,Q1,1220198,573000,7,174314.0
+Skills With Phil,mountain biking,2016,Q2,9507080,573000,9,1056342.22
+Skills With Phil,mountain biking,2016,Q3,1361986,573000,9,151331.78
+Skills With Phil,mountain biking,2016,Q4,2902552,573000,6,483758.67
+Skills With Phil,mountain biking,2017,Q1,2937057,573000,15,195803.8
+Skills With Phil,mountain biking,2017,Q2,6426036,573000,18,357002.0
+Skills With Phil,mountain biking,2017,Q3,4887353,573000,16,305459.56
+Skills With Phil,mountain biking,2017,Q4,611934,573000,1,611934.0
+Skills With Phil,mountain biking,2018,Q1,1664253,573000,5,332850.6
+Skills With Phil,mountain biking,2018,Q2,1533243,573000,4,383310.75
+Skills With Phil,mountain biking,2018,Q3,1228283,573000,2,614141.5
+Skills With Phil,mountain biking,2018,Q4,1354885,573000,5,270977.0
+Skills With Phil,mountain biking,2019,Q1,1827109,573000,5,365421.8
+Skills With Phil,mountain biking,2019,Q2,5003462,573000,12,416955.17
+Skills With Phil,mountain biking,2019,Q3,6088619,573000,6,1014769.83
+Skills With Phil,mountain biking,2019,Q4,4530467,573000,10,453046.7
+Skills With Phil,mountain biking,2020,Q1,103709,573000,2,51854.5
+Skills With Phil,mountain biking,2020,Q2,1733556,573000,6,288926.0
+Skills With Phil,mountain biking,2020,Q3,1550323,573000,6,258387.17
+Skills With Phil,mountain biking,2020,Q4,1057202,573000,5,211440.4
+Skills With Phil,mountain biking,2021,Q1,60518,573000,1,60518.0
+Skills With Phil,mountain biking,2021,Q2,2148112,573000,6,358018.67
+Skills With Phil,mountain biking,2021,Q3,4191494,573000,9,465721.56
+Skills With Phil,mountain biking,2021,Q4,8330345,573000,13,640795.77
+Skills With Phil,mountain biking,2022,Q1,940960,573000,7,134422.86
+Skills With Phil,mountain biking,2022,Q2,2037047,573000,10,203704.7
+Skills With Phil,mountain biking,2022,Q3,3772799,573000,22,171490.86
+Skills With Phil,mountain biking,2022,Q4,1463022,573000,11,133002.0
+Skills With Phil,mountain biking,2023,Q1,75305,573000,2,37652.5
+Skills With Phil,mountain biking,2023,Q2,1354113,573000,14,96722.36
+Skills With Phil,mountain biking,2023,Q3,1825448,573000,13,140419.08
+Skills With Phil,mountain biking,2023,Q4,392988,573000,5,78597.6
+Skills With Phil,mountain biking,2024,Q1,489862,573000,3,163287.33
+Skills With Phil,mountain biking,2024,Q2,628721,573000,12,52393.42
+Skills With Phil,mountain biking,2024,Q3,3374582,573000,71,47529.32
+Skills With Phil,mountain biking,2024,Q4,805016,573000,25,32200.64
+Slingshot Sports,wingfoiling,2015,Q1,45514,17000,1,45514.0
+Slingshot Sports,wingfoiling,2015,Q2,108648,17000,16,6790.5
+Slingshot Sports,wingfoiling,2015,Q3,123966,17000,31,3998.9
+Slingshot Sports,wingfoiling,2015,Q4,118293,17000,15,7886.2
+Slingshot Sports,wingfoiling,2016,Q1,318380,17000,21,15160.95
+Slingshot Sports,wingfoiling,2016,Q2,46367,17000,7,6623.86
+Slingshot Sports,wingfoiling,2016,Q3,289009,17000,40,7225.23
+Slingshot Sports,wingfoiling,2016,Q4,466677,17000,28,16667.04
+Slingshot Sports,wingfoiling,2017,Q1,166910,17000,7,23844.29
+Slingshot Sports,wingfoiling,2017,Q2,66684,17000,15,4445.6
+Slingshot Sports,wingfoiling,2017,Q3,262848,17000,23,11428.17
+Slingshot Sports,wingfoiling,2017,Q4,125018,17000,12,10418.17
+Slingshot Sports,wingfoiling,2018,Q1,165184,17000,21,7865.9
+Slingshot Sports,wingfoiling,2018,Q2,86585,17000,7,12369.29
+Slingshot Sports,wingfoiling,2018,Q3,217232,17000,30,7241.07
+Slingshot Sports,wingfoiling,2018,Q4,28382,17000,3,9460.67
+Slingshot Sports,wingfoiling,2019,Q1,74175,17000,9,8241.67
+Slingshot Sports,wingfoiling,2019,Q2,157836,17000,13,12141.23
+Slingshot Sports,wingfoiling,2019,Q3,542786,17000,69,7866.46
+Slingshot Sports,wingfoiling,2019,Q4,62876,17000,12,5239.67
+Slingshot Sports,wingfoiling,2020,Q1,65968,17000,4,16492.0
+Slingshot Sports,wingfoiling,2020,Q2,99461,17000,18,5525.61
+Slingshot Sports,wingfoiling,2020,Q3,323191,17000,16,20199.44
+Slingshot Sports,wingfoiling,2020,Q4,112088,17000,25,4483.52
+Slingshot Sports,wingfoiling,2021,Q1,86200,17000,14,6157.14
+Slingshot Sports,wingfoiling,2021,Q2,123150,17000,16,7696.88
+Slingshot Sports,wingfoiling,2021,Q3,68447,17000,13,5265.15
+Slingshot Sports,wingfoiling,2021,Q4,202127,17000,56,3609.41
+Slingshot Sports,wingfoiling,2022,Q1,70504,17000,9,7833.78
+Slingshot Sports,wingfoiling,2022,Q2,86735,17000,15,5782.33
+Slingshot Sports,wingfoiling,2022,Q3,199791,17000,48,4162.31
+Slingshot Sports,wingfoiling,2022,Q4,35045,17000,13,2695.77
+Slingshot Sports,wingfoiling,2023,Q1,27733,17000,10,2773.3
+Slingshot Sports,wingfoiling,2023,Q2,18432,17000,9,2048.0
+Slingshot Sports,wingfoiling,2023,Q3,47713,17000,16,2982.06
+Slingshot Sports,wingfoiling,2023,Q4,116517,17000,23,5065.96
+Slingshot Sports,wingfoiling,2024,Q1,45432,17000,18,2524.0
+Slingshot Sports,wingfoiling,2024,Q2,65164,17000,26,2506.31
+Slingshot Sports,wingfoiling,2024,Q3,81131,17000,23,3527.43
+Slingshot Sports,wingfoiling,2024,Q4,36920,17000,16,2307.5
+Snowboarder Magazine,snowboarding,2015,Q1,3566031,184000,117,30478.9
+Snowboarder Magazine,snowboarding,2015,Q2,559618,184000,35,15989.09
+Snowboarder Magazine,snowboarding,2015,Q3,406769,184000,43,9459.74
+Snowboarder Magazine,snowboarding,2015,Q4,3518046,184000,118,29813.95
+Snowboarder Magazine,snowboarding,2016,Q1,1745129,184000,70,24930.41
+Snowboarder Magazine,snowboarding,2016,Q2,642799,184000,58,11082.74
+Snowboarder Magazine,snowboarding,2016,Q3,3658779,184000,57,64189.11
+Snowboarder Magazine,snowboarding,2016,Q4,4773841,184000,157,30406.63
+Snowboarder Magazine,snowboarding,2017,Q1,2555562,184000,90,28395.13
+Snowboarder Magazine,snowboarding,2017,Q2,825609,184000,48,17200.19
+Snowboarder Magazine,snowboarding,2017,Q3,2363041,184000,79,29911.91
+Snowboarder Magazine,snowboarding,2017,Q4,2373416,184000,100,23734.16
+Snowboarder Magazine,snowboarding,2018,Q1,1485842,184000,49,30323.31
+Snowboarder Magazine,snowboarding,2018,Q2,281924,184000,31,9094.32
+Snowboarder Magazine,snowboarding,2018,Q3,2389583,184000,48,49782.98
+Snowboarder Magazine,snowboarding,2018,Q4,1392146,184000,130,10708.82
+Snowboarder Magazine,snowboarding,2019,Q1,1966089,184000,54,36409.06
+Snowboarder Magazine,snowboarding,2019,Q2,145119,184000,17,8536.41
+Snowboarder Magazine,snowboarding,2019,Q3,77507,184000,14,5536.21
+Snowboarder Magazine,snowboarding,2019,Q4,720346,184000,75,9604.61
+Snowboarder Magazine,snowboarding,2020,Q1,796814,184000,47,16953.49
+Snowboarder Magazine,snowboarding,2020,Q2,117595,184000,9,13066.11
+Snowboarder Magazine,snowboarding,2020,Q3,71786,184000,5,14357.2
+Snowboarder Magazine,snowboarding,2020,Q4,230713,184000,43,5365.42
+Snowboarder Magazine,snowboarding,2021,Q1,0,184000,0,0
+Snowboarder Magazine,snowboarding,2021,Q2,0,184000,0,0
+Snowboarder Magazine,snowboarding,2021,Q3,0,184000,0,0
+Snowboarder Magazine,snowboarding,2021,Q4,104347,184000,8,13043.38
+Snowboarder Magazine,snowboarding,2022,Q1,0,184000,0,0
+Snowboarder Magazine,snowboarding,2022,Q2,0,184000,0,0
+Snowboarder Magazine,snowboarding,2022,Q3,0,184000,0,0
+Snowboarder Magazine,snowboarding,2022,Q4,0,184000,0,0
+Snowboarder Magazine,snowboarding,2023,Q1,79520,184000,9,8835.56
+Snowboarder Magazine,snowboarding,2023,Q2,0,184000,0,0
+Snowboarder Magazine,snowboarding,2023,Q3,0,184000,0,0
+Snowboarder Magazine,snowboarding,2023,Q4,0,184000,0,0
+Snowboarder Magazine,snowboarding,2024,Q1,59084,184000,4,14771.0
+Snowboarder Magazine,snowboarding,2024,Q2,0,184000,0,0
+Snowboarder Magazine,snowboarding,2024,Q3,0,184000,0,0
+Snowboarder Magazine,snowboarding,2024,Q4,0,184000,0,0
+Stab: We like to surf,surfing,2015,Q1,0,228000,0,0
+Stab: We like to surf,surfing,2015,Q2,0,228000,0,0
+Stab: We like to surf,surfing,2015,Q3,0,228000,0,0
+Stab: We like to surf,surfing,2015,Q4,0,228000,0,0
+Stab: We like to surf,surfing,2016,Q1,2389646,228000,64,37338.22
+Stab: We like to surf,surfing,2016,Q2,1050864,228000,34,30907.76
+Stab: We like to surf,surfing,2016,Q3,160048,228000,14,11432.0
+Stab: We like to surf,surfing,2016,Q4,892085,228000,32,27877.66
+Stab: We like to surf,surfing,2017,Q1,12233046,228000,12,1019420.5
+Stab: We like to surf,surfing,2017,Q2,326566,228000,9,36285.11
+Stab: We like to surf,surfing,2017,Q3,17057191,228000,241,70776.73
+Stab: We like to surf,surfing,2017,Q4,46815,228000,1,46815.0
+Stab: We like to surf,surfing,2018,Q1,2309897,228000,12,192491.42
+Stab: We like to surf,surfing,2018,Q2,169972,228000,8,21246.5
+Stab: We like to surf,surfing,2018,Q3,643597,228000,31,20761.19
+Stab: We like to surf,surfing,2018,Q4,3553777,228000,62,57318.98
+Stab: We like to surf,surfing,2019,Q1,1481358,228000,35,42324.51
+Stab: We like to surf,surfing,2019,Q2,661253,228000,29,22801.83
+Stab: We like to surf,surfing,2019,Q3,874156,228000,21,41626.48
+Stab: We like to surf,surfing,2019,Q4,2758925,228000,36,76636.81
+Stab: We like to surf,surfing,2020,Q1,1579179,228000,21,75199.0
+Stab: We like to surf,surfing,2020,Q2,2347043,228000,32,73345.09
+Stab: We like to surf,surfing,2020,Q3,3108629,228000,54,57567.2
+Stab: We like to surf,surfing,2020,Q4,3769266,228000,67,56257.7
+Stab: We like to surf,surfing,2021,Q1,2240317,228000,63,35560.59
+Stab: We like to surf,surfing,2021,Q2,1481817,228000,43,34460.86
+Stab: We like to surf,surfing,2021,Q3,4708161,228000,78,60361.04
+Stab: We like to surf,surfing,2021,Q4,2084623,228000,51,40874.96
+Stab: We like to surf,surfing,2022,Q1,2498921,228000,59,42354.59
+Stab: We like to surf,surfing,2022,Q2,1917835,228000,40,47945.88
+Stab: We like to surf,surfing,2022,Q3,1953930,228000,46,42476.74
+Stab: We like to surf,surfing,2022,Q4,2142337,228000,31,69107.65
+Stab: We like to surf,surfing,2023,Q1,1213872,228000,29,41857.66
+Stab: We like to surf,surfing,2023,Q2,941519,228000,21,44834.24
+Stab: We like to surf,surfing,2023,Q3,793415,228000,19,41758.68
+Stab: We like to surf,surfing,2023,Q4,791270,228000,16,49454.38
+Stab: We like to surf,surfing,2024,Q1,1026537,228000,16,64158.56
+Stab: We like to surf,surfing,2024,Q2,661077,228000,16,41317.31
+Stab: We like to surf,surfing,2024,Q3,4068468,228000,59,68957.08
+Stab: We like to surf,surfing,2024,Q4,2198921,228000,75,29318.95
+Super Fly Paragliding School,paragliding,2019,Q1,110555,7210,4,27638.75
+Super Fly Paragliding School,paragliding,2019,Q2,88795,7210,10,8879.5
+Super Fly Paragliding School,paragliding,2019,Q3,12804,7210,1,12804.0
+Super Fly Paragliding School,paragliding,2019,Q4,9988,7210,3,3329.33
+Super Fly Paragliding School,paragliding,2020,Q1,1739,7210,1,1739.0
+Super Fly Paragliding School,paragliding,2020,Q2,0,7210,0,0
+Super Fly Paragliding School,paragliding,2020,Q3,19200,7210,3,6400.0
+Super Fly Paragliding School,paragliding,2020,Q4,13555,7210,1,13555.0
+Super Fly Paragliding School,paragliding,2021,Q1,0,7210,0,0
+Super Fly Paragliding School,paragliding,2021,Q2,8982,7210,3,2994.0
+Super Fly Paragliding School,paragliding,2021,Q3,0,7210,0,0
+Super Fly Paragliding School,paragliding,2021,Q4,0,7210,0,0
+Super Fly Paragliding School,paragliding,2022,Q1,0,7210,0,0
+Super Fly Paragliding School,paragliding,2022,Q2,0,7210,0,0
+Super Fly Paragliding School,paragliding,2022,Q3,0,7210,0,0
+Super Fly Paragliding School,paragliding,2022,Q4,0,7210,0,0
+Super Fly Paragliding School,paragliding,2023,Q1,11249,7210,4,2812.25
+Super Fly Paragliding School,paragliding,2023,Q2,0,7210,0,0
+Super Fly Paragliding School,paragliding,2023,Q3,49758,7210,5,9951.6
+Super Fly Paragliding School,paragliding,2023,Q4,0,7210,0,0
+Super Fly Paragliding School,paragliding,2024,Q1,22604,7210,4,5651.0
+Super Fly Paragliding School,paragliding,2024,Q2,0,7210,0,0
+Super Fly Paragliding School,paragliding,2024,Q3,34730,7210,11,3157.27
+Super Fly Paragliding School,paragliding,2024,Q4,71875,7210,16,4492.19
+Surfline,surfing,2015,Q1,5064867,373000,98,51682.32
+Surfline,surfing,2015,Q2,703317,373000,3,234439.0
+Surfline,surfing,2015,Q3,9869924,373000,23,429127.13
+Surfline,surfing,2015,Q4,936513,373000,59,15873.1
+Surfline,surfing,2016,Q1,793600,373000,138,5750.72
+Surfline,surfing,2016,Q2,478759,373000,22,21761.77
+Surfline,surfing,2016,Q3,390793,373000,40,9769.83
+Surfline,surfing,2016,Q4,874522,373000,54,16194.85
+Surfline,surfing,2017,Q1,6102884,373000,124,49216.81
+Surfline,surfing,2017,Q2,1329935,373000,25,53197.4
+Surfline,surfing,2017,Q3,240633,373000,10,24063.3
+Surfline,surfing,2017,Q4,1610598,373000,99,16268.67
+Surfline,surfing,2018,Q1,1337574,373000,191,7003.01
+Surfline,surfing,2018,Q2,1126400,373000,7,160914.29
+Surfline,surfing,2018,Q3,593736,373000,28,21204.86
+Surfline,surfing,2018,Q4,1140308,373000,88,12958.05
+Surfline,surfing,2019,Q1,2215706,373000,196,11304.62
+Surfline,surfing,2019,Q2,1184859,373000,11,107714.45
+Surfline,surfing,2019,Q3,655970,373000,22,29816.82
+Surfline,surfing,2019,Q4,1039500,373000,108,9625.0
+Surfline,surfing,2020,Q1,1083589,373000,144,7524.92
+Surfline,surfing,2020,Q2,462196,373000,39,11851.18
+Surfline,surfing,2020,Q3,620588,373000,39,15912.51
+Surfline,surfing,2020,Q4,3900109,373000,184,21196.24
+Surfline,surfing,2021,Q1,2837973,373000,182,15593.26
+Surfline,surfing,2021,Q2,1892462,373000,35,54070.34
+Surfline,surfing,2021,Q3,1921718,373000,33,58233.88
+Surfline,surfing,2021,Q4,2698447,373000,35,77098.49
+Surfline,surfing,2022,Q1,1686819,373000,36,46856.08
+Surfline,surfing,2022,Q2,6726512,373000,7,960930.29
+Surfline,surfing,2022,Q3,6246992,373000,16,390437.0
+Surfline,surfing,2022,Q4,198930,373000,3,66310.0
+Surfline,surfing,2023,Q1,6084042,373000,19,320212.74
+Surfline,surfing,2023,Q2,1205860,373000,17,70932.94
+Surfline,surfing,2023,Q3,370584,373000,8,46323.0
+Surfline,surfing,2023,Q4,969212,373000,20,48460.6
+Surfline,surfing,2024,Q1,29992595,373000,49,612093.78
+Surfline,surfing,2024,Q2,71634046,373000,41,1747171.85
+Surfline,surfing,2024,Q3,2346006,373000,47,49915.02
+Surfline,surfing,2024,Q4,5508274,373000,54,102005.07
+Takoon Kiteboarding,wingfoiling,2016,Q3,6617,21,4,1654.25
+Takoon Kiteboarding,wingfoiling,2016,Q4,5699,21,2,2849.5
+Takoon Kiteboarding,wingfoiling,2017,Q1,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2017,Q2,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2017,Q3,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2017,Q4,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2018,Q1,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2018,Q2,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2018,Q3,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2018,Q4,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2019,Q1,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2019,Q2,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2019,Q3,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2019,Q4,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2020,Q1,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2020,Q2,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2020,Q3,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2020,Q4,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2021,Q1,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2021,Q2,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2021,Q3,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2021,Q4,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2022,Q1,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2022,Q2,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2022,Q3,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2022,Q4,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2023,Q1,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2023,Q2,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2023,Q3,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2023,Q4,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2024,Q1,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2024,Q2,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2024,Q3,0,21,0,0
+Takoon Kiteboarding,wingfoiling,2024,Q4,0,21,0,0
+TheGingerRunner,trail running,2015,Q1,934232,193000,26,35932.0
+TheGingerRunner,trail running,2015,Q2,1195693,193000,29,41230.79
+TheGingerRunner,trail running,2015,Q3,1791809,193000,32,55994.03
+TheGingerRunner,trail running,2015,Q4,1074738,193000,25,42989.52
+TheGingerRunner,trail running,2016,Q1,694472,193000,23,30194.43
+TheGingerRunner,trail running,2016,Q2,1054295,193000,27,39047.96
+TheGingerRunner,trail running,2016,Q3,1128446,193000,28,40301.64
+TheGingerRunner,trail running,2016,Q4,858714,193000,26,33027.46
+TheGingerRunner,trail running,2017,Q1,1534163,193000,37,41463.86
+TheGingerRunner,trail running,2017,Q2,984543,193000,26,37867.04
+TheGingerRunner,trail running,2017,Q3,1237678,193000,26,47603.0
+TheGingerRunner,trail running,2017,Q4,555233,193000,24,23134.71
+TheGingerRunner,trail running,2018,Q1,698121,193000,19,36743.21
+TheGingerRunner,trail running,2018,Q2,4439092,193000,24,184962.17
+TheGingerRunner,trail running,2018,Q3,1048507,193000,26,40327.19
+TheGingerRunner,trail running,2018,Q4,401114,193000,20,20055.7
+TheGingerRunner,trail running,2019,Q1,516900,193000,20,25845.0
+TheGingerRunner,trail running,2019,Q2,737202,193000,23,32052.26
+TheGingerRunner,trail running,2019,Q3,1015322,193000,25,40612.88
+TheGingerRunner,trail running,2019,Q4,608451,193000,22,27656.86
+TheGingerRunner,trail running,2020,Q1,1156059,193000,26,44463.81
+TheGingerRunner,trail running,2020,Q2,1150506,193000,24,47937.75
+TheGingerRunner,trail running,2020,Q3,770762,193000,25,30830.48
+TheGingerRunner,trail running,2020,Q4,571582,193000,21,27218.19
+TheGingerRunner,trail running,2021,Q1,718889,193000,22,32676.77
+TheGingerRunner,trail running,2021,Q2,598171,193000,22,27189.59
+TheGingerRunner,trail running,2021,Q3,606107,193000,23,26352.48
+TheGingerRunner,trail running,2021,Q4,406068,193000,21,19336.57
+TheGingerRunner,trail running,2022,Q1,511182,193000,21,24342.0
+TheGingerRunner,trail running,2022,Q2,301580,193000,21,14360.95
+TheGingerRunner,trail running,2022,Q3,434668,193000,21,20698.48
+TheGingerRunner,trail running,2022,Q4,600400,193000,21,28590.48
+TheGingerRunner,trail running,2023,Q1,235177,193000,7,33596.71
+TheGingerRunner,trail running,2023,Q2,224175,193000,10,22417.5
+TheGingerRunner,trail running,2023,Q3,187894,193000,6,31315.67
+TheGingerRunner,trail running,2023,Q4,296353,193000,15,19756.87
+TheGingerRunner,trail running,2024,Q1,149630,193000,4,37407.5
+TheGingerRunner,trail running,2024,Q2,94675,193000,3,31558.33
+TheGingerRunner,trail running,2024,Q3,39230,193000,13,3017.69
+TheGingerRunner,trail running,2024,Q4,273112,193000,14,19508.0
+Tucker Gott,paragliding,2015,Q1,15341,1610000,2,7670.5
+Tucker Gott,paragliding,2015,Q2,464217,1610000,5,92843.4
+Tucker Gott,paragliding,2015,Q3,41505,1610000,1,41505.0
+Tucker Gott,paragliding,2015,Q4,38468,1610000,2,19234.0
+Tucker Gott,paragliding,2016,Q1,80379,1610000,5,16075.8
+Tucker Gott,paragliding,2016,Q2,953442,1610000,12,79453.5
+Tucker Gott,paragliding,2016,Q3,101881,1610000,3,33960.33
+Tucker Gott,paragliding,2016,Q4,9523273,1610000,16,595204.56
+Tucker Gott,paragliding,2017,Q1,9266115,1610000,22,421187.05
+Tucker Gott,paragliding,2017,Q2,5040060,1610000,27,186668.89
+Tucker Gott,paragliding,2017,Q3,55635757,1610000,35,1589593.06
+Tucker Gott,paragliding,2017,Q4,7515984,1610000,28,268428.0
+Tucker Gott,paragliding,2018,Q1,10798449,1610000,29,372360.31
+Tucker Gott,paragliding,2018,Q2,5957894,1610000,27,220662.74
+Tucker Gott,paragliding,2018,Q3,5237608,1610000,33,158715.39
+Tucker Gott,paragliding,2018,Q4,3040357,1610000,27,112605.81
+Tucker Gott,paragliding,2019,Q1,1952341,1610000,24,81347.54
+Tucker Gott,paragliding,2019,Q2,7930575,1610000,22,360480.68
+Tucker Gott,paragliding,2019,Q3,2636719,1610000,21,125558.05
+Tucker Gott,paragliding,2019,Q4,2795675,1610000,22,127076.14
+Tucker Gott,paragliding,2020,Q1,3752269,1610000,22,170557.68
+Tucker Gott,paragliding,2020,Q2,5767389,1610000,23,250756.04
+Tucker Gott,paragliding,2020,Q3,11177916,1610000,23,485996.35
+Tucker Gott,paragliding,2020,Q4,4607710,1610000,22,209441.36
+Tucker Gott,paragliding,2021,Q1,4181628,1610000,13,321663.69
+Tucker Gott,paragliding,2021,Q2,6742970,1610000,19,354893.16
+Tucker Gott,paragliding,2021,Q3,1290015,1610000,16,80625.94
+Tucker Gott,paragliding,2021,Q4,1647228,1610000,16,102951.75
+Tucker Gott,paragliding,2022,Q1,1408259,1610000,14,100589.93
+Tucker Gott,paragliding,2022,Q2,3973130,1610000,13,305625.38
+Tucker Gott,paragliding,2022,Q3,3699777,1610000,17,217633.94
+Tucker Gott,paragliding,2022,Q4,1400333,1610000,14,100023.79
+Tucker Gott,paragliding,2023,Q1,1595372,1610000,18,88631.78
+Tucker Gott,paragliding,2023,Q2,4332071,1610000,11,393824.64
+Tucker Gott,paragliding,2023,Q3,1627662,1610000,10,162766.2
+Tucker Gott,paragliding,2023,Q4,2374949,1610000,17,139702.88
+Tucker Gott,paragliding,2024,Q1,619640,1610000,7,88520.0
+Tucker Gott,paragliding,2024,Q2,2171532,1610000,17,127737.18
+Tucker Gott,paragliding,2024,Q3,795490,1610000,11,72317.27
+Tucker Gott,paragliding,2024,Q4,1224155,1610000,22,55643.41
+Wide Boyz,climbing,2017,Q1,0,253000,0,0
+Wide Boyz,climbing,2017,Q2,0,253000,0,0
+Wide Boyz,climbing,2017,Q3,0,253000,0,0
+Wide Boyz,climbing,2017,Q4,0,253000,0,0
+Wide Boyz,climbing,2018,Q1,0,253000,0,0
+Wide Boyz,climbing,2018,Q2,0,253000,0,0
+Wide Boyz,climbing,2018,Q3,0,253000,0,0
+Wide Boyz,climbing,2018,Q4,0,253000,0,0
+Wide Boyz,climbing,2019,Q1,0,253000,0,0
+Wide Boyz,climbing,2019,Q2,0,253000,0,0
+Wide Boyz,climbing,2019,Q3,0,253000,0,0
+Wide Boyz,climbing,2019,Q4,0,253000,0,0
+Wide Boyz,climbing,2020,Q1,89265,253000,3,29755.0
+Wide Boyz,climbing,2020,Q2,291744,253000,5,58348.8
+Wide Boyz,climbing,2020,Q3,962704,253000,6,160450.67
+Wide Boyz,climbing,2020,Q4,1111790,253000,16,69486.88
+Wide Boyz,climbing,2021,Q1,2627932,253000,20,131396.6
+Wide Boyz,climbing,2021,Q2,998502,253000,15,66566.8
+Wide Boyz,climbing,2021,Q3,1929913,253000,19,101574.37
+Wide Boyz,climbing,2021,Q4,4827393,253000,21,229875.86
+Wide Boyz,climbing,2022,Q1,2441059,253000,16,152566.19
+Wide Boyz,climbing,2022,Q2,11734420,253000,22,533382.73
+Wide Boyz,climbing,2022,Q3,5231849,253000,17,307755.82
+Wide Boyz,climbing,2022,Q4,2532786,253000,15,168852.4
+Wide Boyz,climbing,2023,Q1,2466518,253000,21,117453.24
+Wide Boyz,climbing,2023,Q2,46858232,253000,26,1802239.69
+Wide Boyz,climbing,2023,Q3,3433011,253000,17,201941.82
+Wide Boyz,climbing,2023,Q4,2133833,253000,23,92775.35
+Wide Boyz,climbing,2024,Q1,5793075,253000,15,386205.0
+Wide Boyz,climbing,2024,Q2,3786614,253000,20,189330.7
+Wide Boyz,climbing,2024,Q3,815586,253000,7,116512.29
+Wide Boyz,climbing,2024,Q4,2193973,253000,44,49863.02
+World Surf League,surfing,2015,Q1,0,1360000,0,0
+World Surf League,surfing,2015,Q2,3416096,1360000,18,189783.11
+World Surf League,surfing,2015,Q3,37787651,1360000,292,129409.76
+World Surf League,surfing,2015,Q4,33844757,1360000,817,41425.65
+World Surf League,surfing,2016,Q1,7207183,1360000,497,14501.37
+World Surf League,surfing,2016,Q2,9497101,1360000,714,13301.26
+World Surf League,surfing,2016,Q3,10546199,1360000,653,16150.38
+World Surf League,surfing,2016,Q4,9339108,1360000,658,14193.17
+World Surf League,surfing,2017,Q1,6174580,1360000,426,14494.32
+World Surf League,surfing,2017,Q2,7821949,1360000,380,20584.08
+World Surf League,surfing,2017,Q3,13771941,1360000,641,21485.09
+World Surf League,surfing,2017,Q4,14483944,1360000,622,23286.08
+World Surf League,surfing,2018,Q1,11012171,1360000,385,28603.04
+World Surf League,surfing,2018,Q2,9339867,1360000,385,24259.39
+World Surf League,surfing,2018,Q3,5725280,1360000,322,17780.37
+World Surf League,surfing,2018,Q4,8163945,1360000,492,16593.38
+World Surf League,surfing,2019,Q1,2209400,1360000,229,9648.03
+World Surf League,surfing,2019,Q2,11921873,1360000,525,22708.33
+World Surf League,surfing,2019,Q3,6727633,1360000,365,18431.87
+World Surf League,surfing,2019,Q4,9215117,1360000,313,29441.27
+World Surf League,surfing,2020,Q1,9307511,1360000,270,34472.26
+World Surf League,surfing,2020,Q2,5905327,1360000,151,39108.13
+World Surf League,surfing,2020,Q3,4519313,1360000,164,27556.79
+World Surf League,surfing,2020,Q4,5333442,1360000,52,102566.19
+World Surf League,surfing,2021,Q1,8330255,1360000,66,126215.98
+World Surf League,surfing,2021,Q2,16908826,1360000,280,60388.66
+World Surf League,surfing,2021,Q3,9850901,1360000,183,53830.06
+World Surf League,surfing,2021,Q4,6782439,1360000,191,35510.15
+World Surf League,surfing,2022,Q1,15789425,1360000,355,44477.25
+World Surf League,surfing,2022,Q2,24720385,1360000,661,37398.46
+World Surf League,surfing,2022,Q3,18779454,1360000,562,33415.4
+World Surf League,surfing,2022,Q4,8507178,1360000,397,21428.66
+World Surf League,surfing,2023,Q1,33988787,1360000,682,49836.93
+World Surf League,surfing,2023,Q2,30904639,1360000,831,37189.7
+World Surf League,surfing,2023,Q3,36318994,1360000,711,51081.57
+World Surf League,surfing,2023,Q4,8121993,1360000,414,19618.34
+World Surf League,surfing,2024,Q1,25662023,1360000,832,30843.78
+World Surf League,surfing,2024,Q2,26604080,1360000,782,34020.56
+World Surf League,surfing,2024,Q3,17916616,1360000,529,33868.84
+World Surf League,surfing,2024,Q4,7600371,1360000,378,20106.8
+iRunFarMedia,trail running,2015,Q1,56382,28200,30,1879.4
+iRunFarMedia,trail running,2015,Q2,208364,28200,87,2394.99
+iRunFarMedia,trail running,2015,Q3,345389,28200,120,2878.24
+iRunFarMedia,trail running,2015,Q4,38021,28200,27,1408.19
+iRunFarMedia,trail running,2016,Q1,37067,28200,27,1372.85
+iRunFarMedia,trail running,2016,Q2,263814,28200,61,4324.82
+iRunFarMedia,trail running,2016,Q3,211521,28200,67,3157.03
+iRunFarMedia,trail running,2016,Q4,85055,28200,43,1978.02
+iRunFarMedia,trail running,2017,Q1,64021,28200,25,2560.84
+iRunFarMedia,trail running,2017,Q2,364712,28200,68,5363.41
+iRunFarMedia,trail running,2017,Q3,562133,28200,50,11242.66
+iRunFarMedia,trail running,2017,Q4,86817,28200,27,3215.44
+iRunFarMedia,trail running,2018,Q1,82010,28200,18,4556.11
+iRunFarMedia,trail running,2018,Q2,398411,28200,63,6323.98
+iRunFarMedia,trail running,2018,Q3,276648,28200,63,4391.24
+iRunFarMedia,trail running,2018,Q4,37144,28200,2,18572.0
+iRunFarMedia,trail running,2019,Q1,28067,28200,9,3118.56
+iRunFarMedia,trail running,2019,Q2,378055,28200,71,5324.72
+iRunFarMedia,trail running,2019,Q3,369945,28200,39,9485.77
+iRunFarMedia,trail running,2019,Q4,22243,28200,15,1482.87
+iRunFarMedia,trail running,2020,Q1,13307,28200,11,1209.73
+iRunFarMedia,trail running,2020,Q2,4642,28200,3,1547.33
+iRunFarMedia,trail running,2020,Q3,3313,28200,1,3313.0
+iRunFarMedia,trail running,2020,Q4,26441,28200,2,13220.5
+iRunFarMedia,trail running,2021,Q1,4882,28200,1,4882.0
+iRunFarMedia,trail running,2021,Q2,217397,28200,39,5574.28
+iRunFarMedia,trail running,2021,Q3,410164,28200,40,10254.1
+iRunFarMedia,trail running,2021,Q4,25940,28200,21,1235.24
+iRunFarMedia,trail running,2022,Q1,15353,28200,2,7676.5
+iRunFarMedia,trail running,2022,Q2,144080,28200,41,3514.15
+iRunFarMedia,trail running,2022,Q3,636500,28200,42,15154.76
+iRunFarMedia,trail running,2022,Q4,24435,28200,18,1357.5
+iRunFarMedia,trail running,2023,Q1,11943,28200,1,11943.0
+iRunFarMedia,trail running,2023,Q2,230615,28200,31,7439.19
+iRunFarMedia,trail running,2023,Q3,374747,28200,34,11021.97
+iRunFarMedia,trail running,2023,Q4,0,28200,0,0
+iRunFarMedia,trail running,2024,Q1,10082,28200,1,10082.0
+iRunFarMedia,trail running,2024,Q2,54406,28200,14,3886.14
+iRunFarMedia,trail running,2024,Q3,247311,28200,38,6508.18
+iRunFarMedia,trail running,2024,Q4,4424,28200,7,632.0
