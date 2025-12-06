@@ -1,0 +1,4 @@
+period,equipment_interest_mean,equipment_interest_std,behavioral_interest_mean,behavioral_interest_std,youtube_engagement_mean,youtube_engagement_std
+Pre-COVID,25.8,13.64,26.63,15.94,9.03,52.94
+COVID,27.93,16.39,25.37,15.54,49.89,213.56
+Post-COVID,26.64,14.51,27.84,15.47,105.53,730.18

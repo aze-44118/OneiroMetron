@@ -1,0 +1,4 @@
+barrier_category,equipment_interest_mean,equipment_interest_std,equipment_interest_count,behavioral_interest_mean,behavioral_interest_std,behavioral_interest_count,youtube_engagement_mean,youtube_engagement_std,youtube_engagement_count,barrier_index_mean,barrier_index_std,barrier_index_count
+High,16.73,10.48,280,17.59,12.25,280,3.33,9.89,240,4.92,1.14,280
+Low,28.98,13.17,320,31.42,13.62,320,127.2,711.41,320,1.43,0.26,320
+Medium,30.86,14.73,440,29.16,16.74,440,7.01,17.88,400,2.74,0.37,440

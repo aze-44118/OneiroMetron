@@ -1,0 +1,20 @@
+================================================================================
+HYPOTHESIS TEST RESULTS
+================================================================================
+
+VERDICT: ASPIRATIONAL_DREAMERS
+
+✅ H2a SUPPORTED: Aspirational Dreamers Hypothesis
+   β₃ = -0.4317 < 0 (p=0.0000)
+   → YouTube effect WEAKENS as barrier increases
+   → High-barrier sports create dreamers, not buyers
+
+RECOMMENDATION: Proceed with ORIGINAL paper hypothesis
+
+================================================================================
+MODEL COMPARISON
+================================================================================
+
+     Model log_youtube log_youtube_p youtube_x_barrier youtube_x_barrier_p     R²   N
+  Baseline      0.6690        0.0004                 -                   - 0.2038 960
+Moderation      1.8344        0.0000           -0.4317              0.0000 0.2131 960

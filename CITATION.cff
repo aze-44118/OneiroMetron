@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite as below."
+authors:
+  - family-names: Boissonnas
+    given-names: Henri
+    orcid: https://orcid.org/0000-0000-0000-0000
+title: "YouTube Content Marketing and Barrier to Entry: The Aspirational Dreamers Effect"
+version: 3.0
+date-released: 2024-12-05
+url: "https://github.com/yourusername/empirical-methods-anemoilab"

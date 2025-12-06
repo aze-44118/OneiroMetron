@@ -1,7 +1,16 @@
-.venv/
-__pycache__/
-*.py[cod]
-.DS_Store
+# .gitignore devrait contenir:
 .env
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
 *.log
-*.sqlite3
+temp_*
+test_*
+debug_*
+.venv/
+.idea/
+.vscode/
+*.docx
+!*.docx
+~$*

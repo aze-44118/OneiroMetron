@@ -1,0 +1,21 @@
+# Google Trends
+pytrends==4.9.2
+
+# YouTube API
+google-api-python-client==2.108.0
+google-auth==2.25.2
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+
+# Reddit API
+praw==7.7.1
+
+# General
+pandas==2.1.4
+numpy==1.26.2
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Data visualization (optional)
+matplotlib==3.8.2
+seaborn==0.13.0
