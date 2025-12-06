@@ -1,10 +1,10 @@
 # YouTube Content Marketing & Barrier to Entry
 ## The Aspirational Dreamers Effect
 
-**Author:** Henri Boissonnas  
+**Author:** Aze-44118
 **Institution:** John Cabot University  
-**Course:** Empirical Methods (EC302)  
-**Date:** December 2024  
+**Course:** Empirical Methods I 
+**Date:** December 2025
 
 ---
 
